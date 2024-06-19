@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "iriesmod:sapphire"
+    },
+    "O": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " I ",
+    " I ",
+    " O "
+  ],
+  "result": {
+    "item": "iriesmod:sapphire_sword"
+  },
+  "show_notification": true
+}

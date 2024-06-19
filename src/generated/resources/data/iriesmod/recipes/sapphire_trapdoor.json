@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "iriesmod:sapphire_slab"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "OOO",
+    "   "
+  ],
+  "result": {
+    "count": 3,
+    "item": "iriesmod:sapphire_trapdoor"
+  },
+  "show_notification": true
+}

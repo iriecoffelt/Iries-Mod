@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "iriesmod:sapphire"
+    },
+    "O": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "III",
+    " O ",
+    " O "
+  ],
+  "result": {
+    "item": "iriesmod:sapphire_pickaxe"
+  },
+  "show_notification": true
+}

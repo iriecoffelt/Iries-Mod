@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "iriesmod:sapphire"
+    }
+  },
+  "pattern": [
+    "   ",
+    "III",
+    "I I"
+  ],
+  "result": {
+    "item": "iriesmod:sapphire_helmet"
+  },
+  "show_notification": true
+}

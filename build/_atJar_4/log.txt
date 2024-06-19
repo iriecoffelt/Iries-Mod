@@ -1,0 +1,7 @@
+Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
+Arguments: '--inJar, /Users/iriedevelopment/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20-46.0.14/forge-1.20-46.0.14-injected.jar, --outJar, /Users/iriedevelopment/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20-46.0.14_mapped_parchment_2023.10.08-1.20.2/forge-1.20-46.0.14_mapped_parchment_2023.10.08-1.20.2.jar, --logFile, accesstransform.log, --atFile, /Users/iriedevelopment/Documents/Minecraft Development/forge-1.20-46.0.14-mdk/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /Users/iriedevelopment/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.2.0/accesstransformers-8.2.0-fatjar.jar
+Working directory: /Users/iriedevelopment/Documents/Minecraft Development/forge-1.20-46.0.14-mdk/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

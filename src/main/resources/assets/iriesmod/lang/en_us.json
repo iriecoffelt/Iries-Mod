@@ -1,0 +1,43 @@
+{
+  "item.iriesmod.sapphire": "Sapphire",
+  "item.iriesmod.raw_sapphire": "Raw Sapphire",
+  "item.iriesmod.ore_detector": "Ore Detector",
+  "item.iriesmod.strawberry": "Strawberry",
+  "item.iriesmod.pine_cone": "Pine Cone",
+  "item.iriesmod.sapphire_staff": "Sapphire Staff",
+
+  "item.iriesmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.iriesmod.sapphire_axe": "Sapphire Axe",
+  "item.iriesmod.sapphire_shovel": "Sapphire Shovel",
+  "item.iriesmod.sapphire_hoe": "Sapphire Hoe",
+  "item.iriesmod.sapphire_sword": "Sapphire Sword",
+
+  "item.iriesmod.sapphire_helmet": "Sapphire Helmet",
+  "item.iriesmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.iriesmod.sapphire_leggings": "Sapphire Leggings",
+  "item.iriesmod.sapphire_boots": "Sapphire Boots",
+
+  "block.iriesmod.sapphire_block": "Block of Sapphire",
+  "block.iriesmod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.iriesmod.sound_block": "Sound Block",
+  "block.iriesmod.sapphire_ore": "Sapphire Ore",
+  "block.iriesmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.iriesmod.end_stone_sapphire_ore": "End Stone Sapphire Ore",
+  "block.iriesmod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+  "block.iriesmod.sapphire_stairs": "Sapphire Stairs",
+  "block.iriesmod.sapphire_slab": "Sapphire Slab",
+  "block.iriesmod.sapphire_button": "Sapphire Button",
+  "block.iriesmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.iriesmod.sapphire_fence": "Sapphire Fence",
+  "block.iriesmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.iriesmod.sapphire_wall": "Sapphire Wall",
+  "block.iriesmod.sapphire_door": "Sapphire Door",
+  "block.iriesmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "tooltip.iriesmod.ore_detector.tooltip": "Use This To Detect Diamonds Underground.",
+  "tooltip.iriesmod.sound_block.tooltip": "Makes a sweet sweet sound when right clicked!",
+  "tooltip.iriesmod.pine_cone.tooltip": "Go ahead and throw me in the furnace.",
+
+  "creativetab.iries_tab": "Iries Mod"
+}

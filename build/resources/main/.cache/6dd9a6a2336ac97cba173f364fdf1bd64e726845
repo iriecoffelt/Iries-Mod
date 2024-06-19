@@ -1,0 +1,12 @@
+// 1.20	2024-06-19T11:49:26.047694	Tags for minecraft:block mod id iriesmod
+28375cfce0feb19f01de5313cd59b9dcd9d0873c data/forge/tags/blocks/needs_netherite_tool.json
+3a98b74818337cffbda9717890562c5a922b3f86 data/iriesmod/tags/blocks/needs_sapphire_tool.json
+1a5ce4ea21d618736f4848e0fdf8c9ffee074a15 data/iriesmod/tags/blocks/ore_detector_valuables.json
+9a1476d462e8476e81c220adde2f1a323845c8fa data/minecraft/tags/blocks/fence_gates.json
+60073ea5c8dbf18d07e2801540c62828a0138e8e data/minecraft/tags/blocks/fences.json
+fa2745523f5d056d2293c473c6baa9f05207c08e data/minecraft/tags/blocks/mineable/axe.json
+53e7fb2c36811f1a79e7b05eba7bae54c7cdb008 data/minecraft/tags/blocks/mineable/pickaxe.json
+2f1b17438a32459085235f5fc0f3a8d5ef3535ba data/minecraft/tags/blocks/needs_diamond_tool.json
+4ee84fa016fe0d1a32ee8cdcdb9318a0eb08f943 data/minecraft/tags/blocks/needs_iron_tool.json
+58f49f9a9b9f5bb3ec6c7832c7ece829083b3085 data/minecraft/tags/blocks/needs_stone_tool.json
+64fee6408604fb32d9890c63901cda743ce1017b data/minecraft/tags/blocks/walls.json

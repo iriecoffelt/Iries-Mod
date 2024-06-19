@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "iriesmod:sapphire_block"
+    }
+  },
+  "pattern": [
+    "OO ",
+    "OO ",
+    "OO "
+  ],
+  "result": {
+    "count": 2,
+    "item": "iriesmod:sapphire_door"
+  },
+  "show_notification": true
+}

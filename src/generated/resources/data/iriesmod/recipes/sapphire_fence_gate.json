@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "iriesmod:sapphire_block"
+    },
+    "O": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "   ",
+    "IOI",
+    "IOI"
+  ],
+  "result": {
+    "count": 3,
+    "item": "iriesmod:sapphire_fence_gate"
+  },
+  "show_notification": true
+}

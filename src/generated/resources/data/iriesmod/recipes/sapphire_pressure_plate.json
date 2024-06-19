@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "iriesmod:sapphire_block"
+    }
+  },
+  "pattern": [
+    "OO "
+  ],
+  "result": {
+    "count": 3,
+    "item": "iriesmod:sapphire_pressure_plate"
+  },
+  "show_notification": true
+}

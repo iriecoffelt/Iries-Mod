@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "iriesmod:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "iriesmod:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "iriesmod:block/sapphire_slab_top"
+    }
+  }
+}

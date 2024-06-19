@@ -1,0 +1,20 @@
+{
+  "values": [
+    "iriesmod:sapphire_block",
+    "iriesmod:raw_sapphire_block",
+    "iriesmod:sapphire_ore",
+    "iriesmod:deepslate_sapphire_ore",
+    "iriesmod:nether_sapphire_ore",
+    "iriesmod:end_stone_sapphire_ore",
+    "iriesmod:sound_block",
+    "iriesmod:sapphire_fence",
+    "iriesmod:sapphire_slab",
+    "iriesmod:sapphire_button",
+    "iriesmod:sapphire_trapdoor",
+    "iriesmod:sapphire_pressure_plate",
+    "iriesmod:sapphire_wall",
+    "iriesmod:sapphire_stairs",
+    "iriesmod:sapphire_wall",
+    "iriesmod:sapphire_door"
+  ]
+}
