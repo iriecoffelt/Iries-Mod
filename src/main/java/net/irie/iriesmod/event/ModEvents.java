@@ -4,6 +4,7 @@ import it.unimi.dsi.fastutil.ints.Int2ObjectMap;
 import net.irie.iriesmod.IriesMod;
 import net.irie.iriesmod.block.ModBlocks;
 import net.irie.iriesmod.item.ModItems;
+import net.irie.iriesmod.villager.ModVillagers;
 import net.minecraft.world.entity.npc.VillagerProfession;
 import net.minecraft.world.entity.npc.VillagerTrades;
 import net.minecraft.world.item.EnchantedBookItem;
@@ -65,6 +66,127 @@ public class ModEvents {
                     new ItemStack(ModBlocks.SAPPHIRE_BLOCK.get(), 30),
                     enchantedBook,
                     4,50,0.075f));
+        }
+
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_OTHERSIDE, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_PIGSTEP, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_WAIT, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_MELLOHI, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_CAT, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_13, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_11, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(2).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_5, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(2).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_BLOCKS, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(3).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_CHIRP, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(3).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_FAR, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(4).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_WARD, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(4).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_STRAD, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(5).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_STAL, 1),
+                    1,10,0.02f));
+        }
+        if(event.getType() == ModVillagers.SOUND_MASTER.get()) {
+            Int2ObjectMap<List<VillagerTrades.ItemListing>> trades = event.getTrades();
+
+            trades.get(5).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(ModItems.SAPPHIRE.get(), 5),
+                    new ItemStack(Items.MUSIC_DISC_MALL, 1),
+                    1,10,0.02f));
         }
     }
 

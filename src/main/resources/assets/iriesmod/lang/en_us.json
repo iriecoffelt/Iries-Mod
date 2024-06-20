@@ -42,5 +42,7 @@
   "tooltip.iriesmod.sound_block.tooltip": "Makes a sweet sweet sound when right clicked!",
   "tooltip.iriesmod.pine_cone.tooltip": "Go ahead and throw me in the furnace.",
 
+  "entity.minecraft.villager.iriesmod.soundmaster": "Sound Master",
+
   "creativetab.iries_tab": "Iries Mod"
 }
