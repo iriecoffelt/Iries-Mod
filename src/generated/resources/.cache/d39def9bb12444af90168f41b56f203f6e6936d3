@@ -1,4 +1,4 @@
-// 1.20	2024-06-18T14:46:02.849052	Block States: iriesmod
+// 1.20	2024-06-19T20:54:53.885117	Block States: iriesmod
 bb49cfa597de3745dffbad2d3c5a217b04649813 assets/iriesmod/blockstates/deepslate_sapphire_ore.json
 519575a1029c95237f87676a06c10b20580472c7 assets/iriesmod/blockstates/end_stone_sapphire_ore.json
 90cd806dc59c0116f0df4ce7461016929591b125 assets/iriesmod/blockstates/nether_sapphire_ore.json
@@ -15,6 +15,7 @@ d70c03108f7f8f575a3f334dd60c466b8ae06688 assets/iriesmod/blockstates/sapphire_st
 207d497f95415fb7ba57db87078f7ef40db89c2a assets/iriesmod/blockstates/sapphire_trapdoor.json
 abd9012adee09ce1cec8bae0546580b9cb2a658d assets/iriesmod/blockstates/sapphire_wall.json
 15095f78bccd994a2a5a2a33b3b7ac4261795558 assets/iriesmod/blockstates/sound_block.json
+3579f4c439109024b81f4b76e08f49c78fca0c3e assets/iriesmod/blockstates/strawberry_crop.json
 2f11bad1ff197215e13cbd7085367e5702691e21 assets/iriesmod/models/block/deepslate_sapphire_ore.json
 c966c2df7870f8148240f3444907693d8048d294 assets/iriesmod/models/block/end_stone_sapphire_ore.json
 7c893a62ae4ee1b19ba47b0851eec63a4feadb5c assets/iriesmod/models/block/nether_sapphire_ore.json
@@ -51,6 +52,12 @@ c09e324eba474fb0c9ca581c6ecbae4be05b847a assets/iriesmod/models/block/sapphire_t
 4f4c503eee47910647dac1339620c8cad8a7f93f assets/iriesmod/models/block/sapphire_wall_side.json
 1464ced68027b31e87314bff4dbcc2fc1cf6abcd assets/iriesmod/models/block/sapphire_wall_side_tall.json
 a78ccb96bad6e24403313e5fc4ef05d29f681c6c assets/iriesmod/models/block/sound_block.json
+c91c67d04881a5de11ead08ef901e88e1d8d3df4 assets/iriesmod/models/block/strawberry_stage0.json
+28d94adc790816419acbeabc2236bb017823f045 assets/iriesmod/models/block/strawberry_stage1.json
+8eed135cec1eb6385cf2d41bd3d36a494f9f9307 assets/iriesmod/models/block/strawberry_stage2.json
+5ce671e96b350f29c11bcf8608a197cfe1620eda assets/iriesmod/models/block/strawberry_stage3.json
+1628cdd3712f3b961b24cfaac3df4ffc28557639 assets/iriesmod/models/block/strawberry_stage4.json
+6564e9a6535fed7449741e1e975dee17e7f96de1 assets/iriesmod/models/block/strawberry_stage5.json
 b68bc2cc078e1c88e91f72099578a6b3f4542ebe assets/iriesmod/models/item/deepslate_sapphire_ore.json
 ead24580a9aaba407816b38bd72fe5876dfef79b assets/iriesmod/models/item/end_stone_sapphire_ore.json
 2eb0ecd70e87b10bf60f02a718181c2ce66be1a5 assets/iriesmod/models/item/nether_sapphire_ore.json

@@ -1,6 +1,7 @@
 package net.irie.iriesmod.item;
 
 import net.irie.iriesmod.IriesMod;
+import net.irie.iriesmod.block.ModBlocks;
 import net.irie.iriesmod.item.custom.FuelItem;
 import net.irie.iriesmod.item.custom.ModArmorItem;
 import net.irie.iriesmod.item.custom.OreDetectorItem;
@@ -51,6 +52,9 @@ public class ModItems {
             () -> new ModArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.LEGGINGS, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_BOOTS = ITEMS.register( "sapphire_boots",
             () -> new ModArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.BOOTS, new Item.Properties()));
+
+    public static final RegistryObject<Item> STRAWBERRY_SEEDS = ITEMS.register( "strawberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.STRAWBERRY_CROP.get(), new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

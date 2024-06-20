@@ -67,6 +67,7 @@ public class IriesMod
         }
         if (event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.STRAWBERRY);
+            event.accept(ModItems.STRAWBERRY_SEEDS);
         }
         if (event.getTabKey() == CreativeModeTabs.COMBAT) {
             event.accept(ModItems.SAPPHIRE_SWORD);

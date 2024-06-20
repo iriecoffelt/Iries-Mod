@@ -1,4 +1,4 @@
-// 1.20	2024-06-19T12:20:08.561197	Item Models: iriesmod
+// 1.20	2024-06-19T20:54:53.888881	Item Models: iriesmod
 c3e5b9432a61f7a68774c244fb62efb5ffe7fefa assets/iriesmod/models/item/ore_detector.json
 79e9ad8922215fd3861eff4ffbf6c77a1cf882f6 assets/iriesmod/models/item/pine_cone.json
 fa9f6cdae6861eede2be537bfd0b0f33d2e1f6b0 assets/iriesmod/models/item/raw_sapphire.json
@@ -62,3 +62,4 @@ d0d9e342038f666d57f154a419d988eb74c09585 assets/iriesmod/models/item/sapphire_sw
 42b86bdce6b17db7388339db33201fde5627fa11 assets/iriesmod/models/item/sapphire_trapdoor.json
 70a2970b314c02b17f8eb971fc43a4ec46264fa2 assets/iriesmod/models/item/sapphire_wall.json
 f43a1ebe312fec5a16b41dd877e809780d780024 assets/iriesmod/models/item/strawberry.json
+b84e9b2d384f8f7885bcfddaec60969a6f29bbb2 assets/iriesmod/models/item/strawberry_seeds.json

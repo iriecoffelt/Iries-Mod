@@ -1,4 +1,4 @@
-// 1.20	2024-06-18T14:46:02.851452	Loot Tables
+// 1.20	2024-06-19T20:54:53.88809	Loot Tables
 7ce73f4ea66b0e120615a0195e62776d0588b1fd data/iriesmod/loot_tables/blocks/deepslate_sapphire_ore.json
 b6d6cd6f3610464b3920243a580e9a885b9e273b data/iriesmod/loot_tables/blocks/end_stone_sapphire_ore.json
 23d124c15e76e295774b627c18d89ab25b14a089 data/iriesmod/loot_tables/blocks/nether_sapphire_ore.json
@@ -15,3 +15,4 @@ ff86544846e634be848b8efbb213c257c5b45af9 data/iriesmod/loot_tables/blocks/sapphi
 0ac87b7e5de51674efae97cbdf0e69d9752a1c95 data/iriesmod/loot_tables/blocks/sapphire_trapdoor.json
 2f475c98dc32c36bb483c4d2fd0b0a70a82a453f data/iriesmod/loot_tables/blocks/sapphire_wall.json
 38ba43390523bd7715cc7bc86975cfaf5b926120 data/iriesmod/loot_tables/blocks/sound_block.json
+07ae5c933d42da87b1a599e5effa9becbff9f5ea data/iriesmod/loot_tables/blocks/strawberry_crop.json

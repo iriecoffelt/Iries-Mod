@@ -2,6 +2,7 @@ package net.irie.iriesmod.block;
 
 import net.irie.iriesmod.IriesMod;
 import net.irie.iriesmod.block.custom.SoundBlock;
+import net.irie.iriesmod.block.custom.StrawberryCropBlock;
 import net.irie.iriesmod.item.ModItems;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.valueproviders.UniformInt;
@@ -71,6 +72,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> SAPPHIRE_TRAPDOOR = registerBlock( "sapphire_trapdoor",
             () -> new TrapDoorBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST).noOcclusion(),
                     BlockSetType.STONE));
+
+    public static final RegistryObject<Block> STRAWBERRY_CROP = BLOCKS.register( "strawberry_crop",
+            () -> new StrawberryCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion().noCollission()));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

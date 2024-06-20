@@ -1,10 +1,14 @@
 package net.irie.iriesmod.datagen.loot;
 
 import net.irie.iriesmod.block.ModBlocks;
+import net.irie.iriesmod.block.custom.StrawberryCropBlock;
 import net.irie.iriesmod.item.ModItems;
+import net.minecraft.advancements.critereon.StatePropertiesPredicate;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition;
+import net.minecraft.world.level.storage.loot.predicates.LootItemCondition;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.RegistryObject;
 
@@ -42,6 +46,13 @@ public class ModBlockLootTables extends BlockLootSubProvider {
                 block -> createSlabItemTable(ModBlocks.SAPPHIRE_SLAB.get()));
         this.add(ModBlocks.SAPPHIRE_DOOR.get(),
                 block -> createDoorTable(ModBlocks.SAPPHIRE_DOOR.get()));
+
+        LootItemCondition.Builder lootitemcondition$builder = LootItemBlockStatePropertyCondition
+                .hasBlockStateProperties(ModBlocks.STRAWBERRY_CROP.get())
+                .setProperties(StatePropertiesPredicate.Builder.properties().hasProperty(StrawberryCropBlock.AGE, 5));
+
+        this.add(ModBlocks.STRAWBERRY_CROP.get(), createCropDrops(ModBlocks.STRAWBERRY_CROP.get(), ModItems.STRAWBERRY.get(),
+                ModItems.STRAWBERRY_SEEDS.get(), lootitemcondition$builder));
     }
 
     @Override
