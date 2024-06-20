@@ -41,6 +41,7 @@
   "tooltip.iriesmod.ore_detector.tooltip": "Use This To Detect Diamonds Underground.",
   "tooltip.iriesmod.sound_block.tooltip": "Makes a sweet sweet sound when right clicked!",
   "tooltip.iriesmod.pine_cone.tooltip": "Go ahead and throw me in the furnace.",
+  "sounds.iriesmod.ore_detector_found_ore": "Ore Detector Jingle",
 
   "entity.minecraft.villager.iriesmod.soundmaster": "Sound Master",
 

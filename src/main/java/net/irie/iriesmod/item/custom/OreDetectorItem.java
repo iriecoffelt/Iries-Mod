@@ -1,10 +1,12 @@
 package net.irie.iriesmod.item.custom;
 
+import net.irie.iriesmod.sound.ModSounds;
 import net.irie.iriesmod.util.ModTags;
 import net.minecraft.client.resources.language.I18n;
 import net.minecraft.core.BlockPos;
 import net.minecraft.nbt.Tag;
 import net.minecraft.network.chat.Component;
+import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
@@ -35,16 +37,19 @@ public class OreDetectorItem extends Item {
             for(int i = 0; i <= positionClicked.getY() + 64; i++) {
                 BlockState state = pContext.getLevel().getBlockState(positionClicked.below(i));
 
-                if(isValuableBlock(state)){
-                    outputValuableCoordinates(positionClicked.below(i),player,state.getBlock());
+                if (isValuableBlock(state)) {
+                    outputValuableCoordinates(positionClicked.below(i), player, state.getBlock());
                     foundBlock = true;
+
+                    pContext.getLevel().playSeededSound(null, positionClicked.getX(), positionClicked.getY(), positionClicked.getZ(),
+                            ModSounds.ORE_DETECTOR_FOUND_ORE.get(), SoundSource.BLOCKS, 1f, 1f, 0);
 
                     break;
                 }
             }
 
             if(!foundBlock) {
-                player.sendSystemMessage(Component.literal("No valuables Found."));
+                player.sendSystemMessage(Component.literal("No valuables Found!"));
             }
         }
 
@@ -56,7 +61,7 @@ public class OreDetectorItem extends Item {
 
     @Override
     public void appendHoverText(ItemStack pStack, @Nullable Level pLevel, List<Component> pTooltipComponents, TooltipFlag pIsAdvanced) {
-        pTooltipComponents.add(Component.translatable("tooltip.iriesmod.ore_detector.tooltip"));
+        pTooltipComponents.add(Component.translatable("tooltip.iriesmod.metal_detector.tooltip"));
         super.appendHoverText(pStack, pLevel, pTooltipComponents, pIsAdvanced);
     }
 
