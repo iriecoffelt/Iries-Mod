@@ -5,6 +5,7 @@ import net.irie.iriesmod.block.ModBlocks;
 import net.irie.iriesmod.item.ModCreativeModeTabs;
 import net.irie.iriesmod.item.ModItems;
 import net.irie.iriesmod.item.custom.OreDetectorItem;
+import net.irie.iriesmod.loot.ModLootModifiers;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -36,6 +37,8 @@ public class IriesMod
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
