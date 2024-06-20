@@ -14,4 +14,11 @@ public class ModFoods {
             .effect(() -> new MobEffectInstance(MobEffects.INVISIBILITY, 12000), 1.0f)
             .effect(() -> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 12000), 1.0f)
             .build();
+
+    public static final FoodProperties CORN = new FoodProperties.Builder()
+            .nutrition(2)
+            .saturationMod(0.2f)
+            .effect(() -> new MobEffectInstance(MobEffects.HEAL, 100), 1.0f)
+            .effect(() -> new MobEffectInstance(MobEffects.NIGHT_VISION, 1000), 0.5f)
+            .build();
 }

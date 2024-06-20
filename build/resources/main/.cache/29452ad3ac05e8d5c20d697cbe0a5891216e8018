@@ -1,5 +1,6 @@
-// 1.20	2024-06-19T20:19:17.020431	Global Loot Modifiers : iriesmod
-f884cf35d7a758a3ebbbcd391fe8da89829bd7d2 data/forge/loot_modifiers/global_loot_modifiers.json
+// 1.20	2024-06-20T09:25:50.56591	Global Loot Modifiers : iriesmod
+d5234f8dce180170c13cc194d01f2b42f4dd2c14 data/forge/loot_modifiers/global_loot_modifiers.json
+0ad67c4818421ae2a73df6e0f036f53e4cc8f4dd data/iriesmod/loot_modifiers/corn_seeds_from_grass.json
 689c059e06b3c7a4fa1a85e4080d611211ed2bff data/iriesmod/loot_modifiers/ore_detector_from_village_toolsmith.json
 080515ee4180656764e71e1f63e288ddb7149f0d data/iriesmod/loot_modifiers/pine_cone_from_grass.json
 02de39443bef75b04068e907a58532a2a6514c64 data/iriesmod/loot_modifiers/pine_cone_from_tree.json
