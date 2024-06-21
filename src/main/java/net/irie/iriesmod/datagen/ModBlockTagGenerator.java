@@ -41,7 +41,8 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                         ModBlocks.SAPPHIRE_WALL.get(),
                         ModBlocks.SAPPHIRE_STAIRS.get(),
                         ModBlocks.SAPPHIRE_WALL.get(),
-                        ModBlocks.SAPPHIRE_DOOR.get()
+                        ModBlocks.SAPPHIRE_DOOR.get(),
+                        ModBlocks.MOD_PORTAL.get()
                 );
 
         this.tag(BlockTags.MINEABLE_WITH_AXE)
@@ -70,7 +71,8 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 .add(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
 
         this.tag(ModTags.Blocks.NEEDS_SAPPHIRE_TOOL)
-                .add(ModBlocks.SOUND_BLOCK.get());
+                .add(ModBlocks.SOUND_BLOCK.get())
+                .add(ModBlocks.MOD_PORTAL.get());
 
         this.tag(BlockTags.FENCES)
                 .add(ModBlocks.SAPPHIRE_FENCE.get());
