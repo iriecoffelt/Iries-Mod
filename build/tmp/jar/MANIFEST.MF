@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: iriesmod
+Specification-Vendor: Irie
+Specification-Version: 1
+Implementation-Title: Iries-Mod
+Implementation-Version: 1.0.0-1.20
+Implementation-Vendor: Irie
+Implementation-Timestamp: 2024-06-21T14:45:36-0500
+

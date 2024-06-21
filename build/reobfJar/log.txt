@@ -1,0 +1,833 @@
+Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
+Arguments: '--input, /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/libs/iriesmod-1.0.0-1.20.jar, --output, /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/reobfJar/output.jar, --names, /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/reobfJar/mappings.tsrg, --lib, /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/mezz/jei/jei-1.20-common-api/14.0.0.11_mapped_parchment_2023.10.08-1.20.2/jei-1.20-common-api-14.0.0.11_mapped_parchment_2023.10.08-1.20.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/mezz/jei/jei-1.20-forge-api/14.0.0.11_mapped_parchment_2023.10.08-1.20.2/jei-1.20-forge-api-14.0.0.11_mapped_parchment_2023.10.08-1.20.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/com/github/glitchfiend/TerraBlender-forge/1.20-3.0.0.163_mapped_parchment_2023.10.08-1.20.2/TerraBlender-forge-1.20-3.0.0.163_mapped_parchment_2023.10.08-1.20.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20-46.0.14_mapped_parchment_2023.10.08-1.20.2/forge-1.20-46.0.14_mapped_parchment_2023.10.08-1.20.2-recomp.jar, --lib, /Users/iriedevelopment/.gradle/caches/forge_gradle/minecraft_repo/versions/1.20/client-extra.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlloader/1.20-46.0.14/1804ec4c6695417fb546da63cb7fc925945454a1/fmlloader-1.20-46.0.14.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarSelector/0.3.19/376cc9c8ea60720cf027c01fc033de915699801c/JarJarSelector-0.3.19.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarMetadata/0.3.19/83feaa9b770e6ac0e96ee4fc23fa89325c5fe2/JarJarMetadata-0.3.19.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/ca.weblite/java-objc-bridge/1.1/1227f9e0666314f9de41477e3ec277e542ed7f7b/java-objc-bridge-1.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/forgespi/7.0.0/3384d464dd41882795af8622a8025056dc8de31d/forgespi-7.0.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mergetool/1.1.5/f3da18e12c696d35a47c82cbb2cc8b5aa15e1154/mergetool-1.1.5-api.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/24.0.1/13c5c75c4206580aa4d683bffee658caae6c9f43/annotations-24.0.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/cpw.mods/securejarhandler/2.1.6/66c15fc1f522b586476e9e4cccd0cbe192554e8a/securejarhandler-2.1.6.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/cpw.mods/modlauncher/10.0.8/658c4ddb704aeeaa94ff3e668785a5eebddd0cb5/modlauncher-10.0.8.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.openjdk.nashorn/nashorn-core/15.3/43977e804697048fc8d81d333a36c17d07a5b3dd/nashorn-core-15.3.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.5/19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0/asm-commons-9.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.5/64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe/asm-util-9.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.5/490bacc77de7cbc0be1a30bb3471072d705be4a4/asm-analysis-9.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.5/fd33c8b6373abaa675be407082fdfda35021254a/asm-tree-9.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.5/dc6ea1875f4d64fbc85e1691c95b96a3d8569c90/asm-9.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/accesstransformers/8.0.4/272d240aa73f42195b2a68e2ebd8b701ecf41f63/accesstransformers-8.0.4.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.9.1/e92af8ab33e428461927b484e90bb155a4f3a052/antlr4-4.9.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.9.1/428664f05d2b7f7b7610204b5aa7c1763f62011a/antlr4-runtime-4.9.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlcore/1.20-46.0.14/9d768efd192cfba2ab8d351cb392859ccf691710/fmlcore-1.20-46.0.14.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus/6.0.3/42fe522ace1bbcbcbba9c880c42411857baf36a9/eventbus-6.0.3.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/coremods/5.0.1/386b00279628b105b2d507539c46e134e96f6237/coremods-5.0.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/unsafe/0.2.0/54d7a0a5e8fdb71b973025caa46f341ae5904f39/unsafe-0.2.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/toml/3.6.4/51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4/toml-3.6.4.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/core/3.6.4/510f174abbf1c947494db50ef2445683bd52c230/core-3.6.4.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.5/4433f50c07debefaed0553bd0068f4f48d449313/maven-artifact-3.8.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.8.3/98f84f353457629e81cc6827224871b1a8faa7af/typetools-0.8.3.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecrell/terminalconsoleappender/1.2.0/96d02cd3b384ff015a8fef4223bcb4ccf1717c95/terminalconsoleappender-1.2.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.jline/jline-reader/3.12.1/4382ab1382c7b6f379377ed5f665dc2f6e1218bc/jline-reader-3.12.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.12.1/c777448314e050d980a6b697c140f3bfe9eb7416/jline-terminal-3.12.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/cpw.mods/bootstraplauncher/1.1.2/c546e00443d8432cda6baa1c860346980742628/bootstraplauncher-1.1.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarFileSystems/0.3.19/2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020/JarJarFileSystems-0.3.19.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/javafmllanguage/1.20-46.0.14/a6405744022dfa25d0b0b60fadee46538a162723/javafmllanguage-1.20-46.0.14.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/lowcodelanguage/1.20-46.0.14/d85c3d3a835e85b26ebf1adf7604a180762119a7/lowcodelanguage-1.20-46.0.14.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mclanguage/1.20-46.0.14/69e8fcee85250152d97775b0704885837b4b75fa/mclanguage-1.20-46.0.14.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.2.2/54f5efc19bca95d709d9a37d19ffcbba3d21c1a6/oshi-core-6.2.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10/dd9b193aef96e973d5a11ab13cd17430c2e4306b/gson-2.10.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j/71.1/9e7d3304c23f9ba5cb71915f7cce23231a57a445/icu4j-71.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/4.0.43/2ff9d747a77570a07a60d32ac77eb6162ad2a2d9/authlib-4.0.43.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/5c685c5ffa94c4cd39496c7184c1d122e515ecef/blocklist-1.0.10.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.1.8/5244ce82c3337bba4a196a3ce858bfaecc74404a/brigadier-1.1.8.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/6.0.8/3ba4a30557a9b057760af4011f909ba619fc5125/datafixerupper-6.0.8.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/logging/1.1.1/832b8e6674a9b325a5175a3a6267dfaf34c85139/logging-1.1.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/2.2.10/da05971b07cbb379d002cf7eaec6a2048211fefc/patchy-2.2.10.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.17.9/3cad216e3a7f0c19b4b394388bc9ffc446f13b14/text2speech-1.17.9.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.82.Final/644041d1fa96a5d3130a29e8978630d716d76e38/netty-handler-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.82.Final/b77200379acb345a9ffdece1c605e591ac3e4e0a/netty-codec-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.82.Final/e7c7dd18deac93105797f30057c912651ea76521/netty-transport-classes-epoll-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.82.Final/3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce/netty-transport-native-unix-common-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.82.Final/e431a218d91acb6476ccad5f5aafde50aa3945ca/netty-transport-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.82.Final/a544270cf1ae8b8077082f5036436a9a9971ea71/netty-buffer-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.82.Final/38f665ae8dcd29032eea31245ba7806bed2e0fa8/netty-resolver-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.82.Final/22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3/netty-common-4.1.82.Final.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.5.9/bb7ea75ecdb216654237830b3a96d87ad91f8cc5/fastutil-8.5.9.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.12.1/97406a297c852f4a41e688a176ec675f72e8329/jna-platform-5.12.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.12.1/b1e93a735caea94f503e95e6fe79bf9cdc1e985d/jna-5.12.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.4/4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c/jopt-simple-5.0.4.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.19.0/3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb/log4j-core-2.19.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j2-impl/2.19.0/5c04bfdd63ce9dceb2e284b81e96b6a70010ee10/log4j-slf4j2-impl-2.19.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.19.0/ea1b37f38c327596b216542bc636cfdc0b8036fa/log4j-api-2.19.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.10.5/22566d58af70ad3d72308bab63b8339906deb649/joml-1.10.5.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cbac1b8d30cb4795149c1ef540f912671a8616d0/lwjgl-glfw-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/9ec4ce1fc8c85fdef03ef4ff2aace6f5775fb280/lwjgl-glfw-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cac0d3f712a3da7641fa174735a5f315de7ffe0a/lwjgl-glfw-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/a817bcf213db49f710603677457567c37d53e103/lwjgl-jemalloc-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/56424dc8db3cfb8e7b594aa6d59a4f4387b7f544/lwjgl-jemalloc-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/e577b87d8ad2ade361aaea2fcf226c660b15dee8/lwjgl-jemalloc-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/2623a6b8ae1dfcd880738656a9f0243d2e6840bd/lwjgl-openal-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/3a57b8911835fb58b5e558d0ca0d28157e263d45/lwjgl-openal-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/23d55e7490b57495320f6c9e1936d78fd72c4ef8/lwjgl-openal-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/831a5533a21a5f4f81bbc51bb13e9899319b5411/lwjgl-opengl-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/a0d12697ea019a7362eff26475b0531340e876a6/lwjgl-opengl-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/eafe34b871d966292e8db0f1f3d6b8b110d4e91d/lwjgl-opengl-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/b119297cf8ed01f247abe8685857f8e7fcf5980f/lwjgl-stb-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/def8879b8d38a47a4cc1d48b1f9a7b772e51258e/lwjgl-stb-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/fcf073ed911752abdca5f0b00a53cfdf17ff8e8b/lwjgl-stb-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/ff1914111ef2e3e0110ef2dabc8d8cdaad82347/lwjgl-tinyfd-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/78641a0fa5e9afa714adfdd152c357930c97a1ce/lwjgl-tinyfd-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/972ecc17bad3571e81162153077b4d47b7b9eaa9/lwjgl-tinyfd-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/ae58664f88e18a9bb2c77b063833ca7aaec484cb/lwjgl-3.3.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/fc6bb723dec2cd031557dccb2a95f0ab80acb9db/lwjgl-3.3.1-natives-macos.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/71d0d5e469c9c95351eb949064497e3391616ac9/lwjgl-3.3.1-natives-macos-arm64.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.machinezoo.noexception/noexception/1.7.1/b65330c98e38a1f915fa54a6e5eca496505e3f0a/noexception-1.7.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.1/f48d81adce2abf5ad3cfe463df517952749e03bc/slf4j-api-2.0.1.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.3.0/cf43b5391de623b36fe066a21127baef82c64022/plexus-utils-3.3.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/ST4/4.3/92f2c1ad8d84abcbeead6cf7f2c53a04166293c2/ST4-4.3.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/cd9cd41361c155f3af0f653009dcecb08d8b4afd/antlr-runtime-3.5.2.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.3/457216e8e6578099ae63667bb1e4439235892028/org.abego.treelayout.core-1.0.3.jar, --lib, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.0.4/3178f73569fd7a1e5ffc464e680f7a8cc784b85a/javax.json-1.0.4.jar, --disable-abstract-param'
+Classpath:
+ - /Users/iriedevelopment/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/ForgeAutoRenamingTool/1.0.8/ForgeAutoRenamingTool-1.0.8-all.jar
+Working directory: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/reobfJar
+Main class: net.minecraftforge.fart.Main
+====================================
+Forge Auto Renaming Tool v1.0.8
+lib: /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/mezz/jei/jei-1.20-common-api/14.0.0.11_mapped_parchment_2023.10.08-1.20.2/jei-1.20-common-api-14.0.0.11_mapped_parchment_2023.10.08-1.20.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/mezz/jei/jei-1.20-forge-api/14.0.0.11_mapped_parchment_2023.10.08-1.20.2/jei-1.20-forge-api-14.0.0.11_mapped_parchment_2023.10.08-1.20.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/com/github/glitchfiend/TerraBlender-forge/1.20-3.0.0.163_mapped_parchment_2023.10.08-1.20.2/TerraBlender-forge-1.20-3.0.0.163_mapped_parchment_2023.10.08-1.20.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20-46.0.14_mapped_parchment_2023.10.08-1.20.2/forge-1.20-46.0.14_mapped_parchment_2023.10.08-1.20.2-recomp.jar
+lib: /Users/iriedevelopment/.gradle/caches/forge_gradle/minecraft_repo/versions/1.20/client-extra.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlloader/1.20-46.0.14/1804ec4c6695417fb546da63cb7fc925945454a1/fmlloader-1.20-46.0.14.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarSelector/0.3.19/376cc9c8ea60720cf027c01fc033de915699801c/JarJarSelector-0.3.19.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarMetadata/0.3.19/83feaa9b770e6ac0e96ee4fc23fa89325c5fe2/JarJarMetadata-0.3.19.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/ca.weblite/java-objc-bridge/1.1/1227f9e0666314f9de41477e3ec277e542ed7f7b/java-objc-bridge-1.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/forgespi/7.0.0/3384d464dd41882795af8622a8025056dc8de31d/forgespi-7.0.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mergetool/1.1.5/f3da18e12c696d35a47c82cbb2cc8b5aa15e1154/mergetool-1.1.5-api.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/24.0.1/13c5c75c4206580aa4d683bffee658caae6c9f43/annotations-24.0.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/cpw.mods/securejarhandler/2.1.6/66c15fc1f522b586476e9e4cccd0cbe192554e8a/securejarhandler-2.1.6.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/cpw.mods/modlauncher/10.0.8/658c4ddb704aeeaa94ff3e668785a5eebddd0cb5/modlauncher-10.0.8.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.openjdk.nashorn/nashorn-core/15.3/43977e804697048fc8d81d333a36c17d07a5b3dd/nashorn-core-15.3.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.5/19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0/asm-commons-9.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.5/64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe/asm-util-9.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.5/490bacc77de7cbc0be1a30bb3471072d705be4a4/asm-analysis-9.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.5/fd33c8b6373abaa675be407082fdfda35021254a/asm-tree-9.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.5/dc6ea1875f4d64fbc85e1691c95b96a3d8569c90/asm-9.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/accesstransformers/8.0.4/272d240aa73f42195b2a68e2ebd8b701ecf41f63/accesstransformers-8.0.4.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.9.1/e92af8ab33e428461927b484e90bb155a4f3a052/antlr4-4.9.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.9.1/428664f05d2b7f7b7610204b5aa7c1763f62011a/antlr4-runtime-4.9.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlcore/1.20-46.0.14/9d768efd192cfba2ab8d351cb392859ccf691710/fmlcore-1.20-46.0.14.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus/6.0.3/42fe522ace1bbcbcbba9c880c42411857baf36a9/eventbus-6.0.3.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/coremods/5.0.1/386b00279628b105b2d507539c46e134e96f6237/coremods-5.0.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/unsafe/0.2.0/54d7a0a5e8fdb71b973025caa46f341ae5904f39/unsafe-0.2.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/toml/3.6.4/51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4/toml-3.6.4.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/core/3.6.4/510f174abbf1c947494db50ef2445683bd52c230/core-3.6.4.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.5/4433f50c07debefaed0553bd0068f4f48d449313/maven-artifact-3.8.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.8.3/98f84f353457629e81cc6827224871b1a8faa7af/typetools-0.8.3.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecrell/terminalconsoleappender/1.2.0/96d02cd3b384ff015a8fef4223bcb4ccf1717c95/terminalconsoleappender-1.2.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.jline/jline-reader/3.12.1/4382ab1382c7b6f379377ed5f665dc2f6e1218bc/jline-reader-3.12.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.12.1/c777448314e050d980a6b697c140f3bfe9eb7416/jline-terminal-3.12.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/cpw.mods/bootstraplauncher/1.1.2/c546e00443d8432cda6baa1c860346980742628/bootstraplauncher-1.1.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarFileSystems/0.3.19/2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020/JarJarFileSystems-0.3.19.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/javafmllanguage/1.20-46.0.14/a6405744022dfa25d0b0b60fadee46538a162723/javafmllanguage-1.20-46.0.14.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/lowcodelanguage/1.20-46.0.14/d85c3d3a835e85b26ebf1adf7604a180762119a7/lowcodelanguage-1.20-46.0.14.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mclanguage/1.20-46.0.14/69e8fcee85250152d97775b0704885837b4b75fa/mclanguage-1.20-46.0.14.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.2.2/54f5efc19bca95d709d9a37d19ffcbba3d21c1a6/oshi-core-6.2.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10/dd9b193aef96e973d5a11ab13cd17430c2e4306b/gson-2.10.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j/71.1/9e7d3304c23f9ba5cb71915f7cce23231a57a445/icu4j-71.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/4.0.43/2ff9d747a77570a07a60d32ac77eb6162ad2a2d9/authlib-4.0.43.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/5c685c5ffa94c4cd39496c7184c1d122e515ecef/blocklist-1.0.10.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.1.8/5244ce82c3337bba4a196a3ce858bfaecc74404a/brigadier-1.1.8.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/6.0.8/3ba4a30557a9b057760af4011f909ba619fc5125/datafixerupper-6.0.8.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/logging/1.1.1/832b8e6674a9b325a5175a3a6267dfaf34c85139/logging-1.1.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/2.2.10/da05971b07cbb379d002cf7eaec6a2048211fefc/patchy-2.2.10.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.17.9/3cad216e3a7f0c19b4b394388bc9ffc446f13b14/text2speech-1.17.9.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.82.Final/644041d1fa96a5d3130a29e8978630d716d76e38/netty-handler-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.82.Final/b77200379acb345a9ffdece1c605e591ac3e4e0a/netty-codec-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.82.Final/e7c7dd18deac93105797f30057c912651ea76521/netty-transport-classes-epoll-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.82.Final/3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce/netty-transport-native-unix-common-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.82.Final/e431a218d91acb6476ccad5f5aafde50aa3945ca/netty-transport-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.82.Final/a544270cf1ae8b8077082f5036436a9a9971ea71/netty-buffer-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.82.Final/38f665ae8dcd29032eea31245ba7806bed2e0fa8/netty-resolver-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.82.Final/22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3/netty-common-4.1.82.Final.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.5.9/bb7ea75ecdb216654237830b3a96d87ad91f8cc5/fastutil-8.5.9.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.12.1/97406a297c852f4a41e688a176ec675f72e8329/jna-platform-5.12.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.12.1/b1e93a735caea94f503e95e6fe79bf9cdc1e985d/jna-5.12.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.4/4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c/jopt-simple-5.0.4.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.19.0/3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb/log4j-core-2.19.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j2-impl/2.19.0/5c04bfdd63ce9dceb2e284b81e96b6a70010ee10/log4j-slf4j2-impl-2.19.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.19.0/ea1b37f38c327596b216542bc636cfdc0b8036fa/log4j-api-2.19.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.10.5/22566d58af70ad3d72308bab63b8339906deb649/joml-1.10.5.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cbac1b8d30cb4795149c1ef540f912671a8616d0/lwjgl-glfw-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/9ec4ce1fc8c85fdef03ef4ff2aace6f5775fb280/lwjgl-glfw-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cac0d3f712a3da7641fa174735a5f315de7ffe0a/lwjgl-glfw-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/a817bcf213db49f710603677457567c37d53e103/lwjgl-jemalloc-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/56424dc8db3cfb8e7b594aa6d59a4f4387b7f544/lwjgl-jemalloc-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/e577b87d8ad2ade361aaea2fcf226c660b15dee8/lwjgl-jemalloc-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/2623a6b8ae1dfcd880738656a9f0243d2e6840bd/lwjgl-openal-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/3a57b8911835fb58b5e558d0ca0d28157e263d45/lwjgl-openal-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/23d55e7490b57495320f6c9e1936d78fd72c4ef8/lwjgl-openal-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/831a5533a21a5f4f81bbc51bb13e9899319b5411/lwjgl-opengl-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/a0d12697ea019a7362eff26475b0531340e876a6/lwjgl-opengl-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/eafe34b871d966292e8db0f1f3d6b8b110d4e91d/lwjgl-opengl-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/b119297cf8ed01f247abe8685857f8e7fcf5980f/lwjgl-stb-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/def8879b8d38a47a4cc1d48b1f9a7b772e51258e/lwjgl-stb-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/fcf073ed911752abdca5f0b00a53cfdf17ff8e8b/lwjgl-stb-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/ff1914111ef2e3e0110ef2dabc8d8cdaad82347/lwjgl-tinyfd-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/78641a0fa5e9afa714adfdd152c357930c97a1ce/lwjgl-tinyfd-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/972ecc17bad3571e81162153077b4d47b7b9eaa9/lwjgl-tinyfd-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/ae58664f88e18a9bb2c77b063833ca7aaec484cb/lwjgl-3.3.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/fc6bb723dec2cd031557dccb2a95f0ab80acb9db/lwjgl-3.3.1-natives-macos.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/71d0d5e469c9c95351eb949064497e3391616ac9/lwjgl-3.3.1-natives-macos-arm64.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.machinezoo.noexception/noexception/1.7.1/b65330c98e38a1f915fa54a6e5eca496505e3f0a/noexception-1.7.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.1/f48d81adce2abf5ad3cfe463df517952749e03bc/slf4j-api-2.0.1.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.3.0/cf43b5391de623b36fe066a21127baef82c64022/plexus-utils-3.3.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/ST4/4.3/92f2c1ad8d84abcbeead6cf7f2c53a04166293c2/ST4-4.3.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/cd9cd41361c155f3af0f653009dcecb08d8b4afd/antlr-runtime-3.5.2.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.3/457216e8e6578099ae63667bb1e4439235892028/org.abego.treelayout.core-1.0.3.jar
+lib: /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.0.4/3178f73569fd7a1e5ffc464e680f7a8cc784b85a/javax.json-1.0.4.jar
+log: null
+input: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/libs/iriesmod-1.0.0-1.20.jar
+output: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/reobfJar/output.jar
+threads: 20
+Names: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/reobfJar/mappings.tsrg(reversed: false)
+Fix Annotations: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: false
+Adding Libraries to Inheritance
+Reading Input: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/libs/iriesmod-1.0.0-1.20.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/PineTreeGrower/getConfiguredFeature(Lnet/minecraft/util/RandomSource;Z)Lnet/minecraft/resources/ResourceKey; from net/minecraft/world/level/block/grower/AbstractTreeGrower/getConfiguredFeature(Lnet/minecraft/util/RandomSource;Z)Lnet/minecraft/resources/ResourceKey;: getConfiguredFeature -> m_213888_
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/custom/PineTrunkPlacer/type()Lnet/minecraft/world/level/levelgen/feature/trunkplacers/TrunkPlacerType; from net/minecraft/world/level/levelgen/feature/trunkplacers/TrunkPlacer/type()Lnet/minecraft/world/level/levelgen/feature/trunkplacers/TrunkPlacerType;: type -> m_7362_
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/custom/PineTrunkPlacer/placeTrunk(Lnet/minecraft/world/level/LevelSimulatedReader;Ljava/util/function/BiConsumer;Lnet/minecraft/util/RandomSource;ILnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration;)Ljava/util/List; from net/minecraft/world/level/levelgen/feature/trunkplacers/TrunkPlacer/placeTrunk(Lnet/minecraft/world/level/LevelSimulatedReader;Ljava/util/function/BiConsumer;Lnet/minecraft/util/RandomSource;ILnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration;)Ljava/util/List;: placeTrunk -> m_213934_
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/custom/PineFoliagePlacer/type()Lnet/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacerType; from net/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer/type()Lnet/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacerType;: type -> m_5897_
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/custom/PineFoliagePlacer/foliageHeight(Lnet/minecraft/util/RandomSource;ILnet/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration;)I from net/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer/foliageHeight(Lnet/minecraft/util/RandomSource;ILnet/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration;)I: foliageHeight -> m_214116_
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/custom/PineFoliagePlacer/createFoliage(Lnet/minecraft/world/level/LevelSimulatedReader;Lnet/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer$FoliageSetter;Lnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration;ILnet/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer$FoliageAttachment;III)V from net/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer/createFoliage(Lnet/minecraft/world/level/LevelSimulatedReader;Lnet/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer$FoliageSetter;Lnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/levelgen/feature/configurations/TreeConfiguration;ILnet/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer$FoliageAttachment;III)V: createFoliage -> m_213633_
+Conflicting propagated mapping for net/irie/iriesmod/worldgen/tree/custom/PineFoliagePlacer/shouldSkipLocation(Lnet/minecraft/util/RandomSource;IIIIZ)Z from net/minecraft/world/level/levelgen/feature/foliageplacers/FoliagePlacer/shouldSkipLocation(Lnet/minecraft/util/RandomSource;IIIIZ)Z: shouldSkipLocation -> m_214203_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/isTimeToAttack()Z from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/isTimeToAttack()Z: isTimeToAttack -> m_25564_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/resetAttackCooldown()V from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/resetAttackCooldown()V: resetAttackCooldown -> m_25563_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/checkAndPerformAttack(Lnet/minecraft/world/entity/LivingEntity;D)V from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/checkAndPerformAttack(Lnet/minecraft/world/entity/LivingEntity;D)V: checkAndPerformAttack -> m_6739_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/tick()V from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/tick()V: tick -> m_8037_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/stop()V from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/stop()V: stop -> m_8041_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/start()V from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/start()V: start -> m_8056_
+Conflicting propagated mapping for net/irie/iriesmod/entity/ai/RhinoAttackGoal/getTicksUntilNextAttack()I from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getTicksUntilNextAttack()I: getTicksUntilNextAttack -> m_25565_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModBoatEntity$Type/getSerializedName()Ljava/lang/String; from net/minecraft/util/StringRepresentable/getSerializedName()Ljava/lang/String;: getSerializedName -> m_7912_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoModel/root()Lnet/minecraft/client/model/geom/ModelPart; from net/minecraft/client/model/HierarchicalModel/root()Lnet/minecraft/client/model/geom/ModelPart;: root -> m_142109_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoModel/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/HierarchicalModel/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for net/minecraft/world/entity/vehicle/Boat/addPassenger(Lnet/minecraft/world/entity/Entity;)V from net/minecraft/world/entity/Entity/addPassenger(Lnet/minecraft/world/entity/Entity;)V: addPassenger -> m_20348_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/ArmorMaterial/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6230_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getEnchantmentValue()I from net/minecraft/world/item/ArmorMaterial/getEnchantmentValue()I: getEnchantmentValue -> m_6646_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getKnockbackResistance()F from net/minecraft/world/item/ArmorMaterial/getKnockbackResistance()F: getKnockbackResistance -> m_6649_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getToughness()F from net/minecraft/world/item/ArmorMaterial/getToughness()F: getToughness -> m_6651_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getName()Ljava/lang/String; from net/minecraft/world/item/ArmorMaterial/getName()Ljava/lang/String;: getName -> m_6082_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getDefenseForType(Lnet/minecraft/world/item/ArmorItem$Type;)I from net/minecraft/world/item/ArmorMaterial/getDefenseForType(Lnet/minecraft/world/item/ArmorItem$Type;)I: getDefenseForType -> m_7366_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getEquipSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/item/ArmorMaterial/getEquipSound()Lnet/minecraft/sounds/SoundEvent;: getEquipSound -> m_7344_
+Conflicting propagated mapping for net/irie/iriesmod/item/ModArmorMaterials/getDurabilityForType(Lnet/minecraft/world/item/ArmorItem$Type;)I from net/minecraft/world/item/ArmorMaterial/getDurabilityForType(Lnet/minecraft/world/item/ArmorItem$Type;)I: getDurabilityForType -> m_266425_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModBoatEntity/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/vehicle/Boat/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: readAdditionalSaveData -> m_7378_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoRenderer/render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoRenderer/render(Lnet/minecraft/world/entity/Mob;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/MobRenderer/render(Lnet/minecraft/world/entity/Mob;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for net/irie/iriesmod/entity/client/RhinoRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModBoatEntity/defineSynchedData()V from net/minecraft/world/entity/vehicle/Boat/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModBoatEntity/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/vehicle/Boat/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: addAdditionalSaveData -> m_7380_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/DiceProjectileEntity/getDefaultItem()Lnet/minecraft/world/item/Item; from net/minecraft/world/entity/projectile/ThrowableItemProjectile/getDefaultItem()Lnet/minecraft/world/item/Item;: getDefaultItem -> m_7881_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModBoatEntity/getDropItem()Lnet/minecraft/world/item/Item; from net/minecraft/world/entity/vehicle/Boat/getDropItem()Lnet/minecraft/world/item/Item;: getDropItem -> m_38369_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/DiceProjectileEntity/onHitBlock(Lnet/minecraft/world/phys/BlockHitResult;)V from net/minecraft/world/entity/projectile/Projectile/onHitBlock(Lnet/minecraft/world/phys/BlockHitResult;)V: onHitBlock -> m_8060_
+Conflicting propagated mapping for net/minecraftforge/event/BuildCreativeModeTabContentsEvent/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V from net/minecraft/world/item/CreativeModeTab$Output/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V: accept -> m_246267_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModChestBoatEntity/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/vehicle/ChestBoat/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: readAdditionalSaveData -> m_7378_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModChestBoatEntity/defineSynchedData()V from net/minecraft/world/entity/vehicle/Boat/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModChestBoatEntity/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/vehicle/ChestBoat/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: addAdditionalSaveData -> m_7380_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/ModChestBoatEntity/getDropItem()Lnet/minecraft/world/item/Item; from net/minecraft/world/entity/vehicle/ChestBoat/getDropItem()Lnet/minecraft/world/item/Item;: getDropItem -> m_38369_
+Conflicting propagated mapping for net/irie/iriesmod/item/custom/DiceItem/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/DiceBlock/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState; from net/minecraft/world/level/block/Block/getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;: getStateForPlacement -> m_5573_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeTier/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeTier/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeTier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/DiceBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/Block/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/irie/iriesmod/item/custom/ModBoatItem/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeTier/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeTier/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeTier/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/ModPortalBlock/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for net/irie/iriesmod/item/custom/FuelItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for net/irie/iriesmod/item/custom/OreDetectorItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for net/irie/iriesmod/item/custom/OreDetectorItem/useOn(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/item/Item/useOn(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;: useOn -> m_6225_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeSpawnEggItem/getType(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/EntityType; from net/minecraft/world/item/SpawnEggItem/getType(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/EntityType;: getType -> m_43228_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/LivingEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/getBreedOffspring(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob; from net/minecraft/world/entity/AgeableMob/getBreedOffspring(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;: getBreedOffspring -> m_142606_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/tick()V from net/minecraft/world/entity/Mob/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/defineSynchedData()V from net/minecraft/world/entity/AgeableMob/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/LivingEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/getAmbientSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/Mob/getAmbientSound()Lnet/minecraft/sounds/SoundEvent;: getAmbientSound -> m_7515_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/isFood(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/entity/animal/Animal/isFood(Lnet/minecraft/world/item/ItemStack;)Z: isFood -> m_6898_
+Conflicting propagated mapping for net/irie/iriesmod/entity/custom/RhinoEntity/updateWalkAnimation(F)V from net/minecraft/world/entity/LivingEntity/updateWalkAnimation(F)V: updateWalkAnimation -> m_267689_
+Conflicting propagated mapping for net/minecraft/world/entity/LivingEntity/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V from net/minecraft/world/entity/player/Player/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V: lambda$addAdditionalSaveData$3 -> m_219754_
+Conflicting propagated mapping for net/minecraftforge/common/util/ForgeSoundType/getPlaceSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/level/block/SoundType/getPlaceSound()Lnet/minecraft/sounds/SoundEvent;: getPlaceSound -> m_56777_
+Conflicting propagated mapping for net/minecraftforge/common/util/ForgeSoundType/getFallSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/level/block/SoundType/getFallSound()Lnet/minecraft/sounds/SoundEvent;: getFallSound -> m_56779_
+Conflicting propagated mapping for net/minecraftforge/common/util/ForgeSoundType/getStepSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/level/block/SoundType/getStepSound()Lnet/minecraft/sounds/SoundEvent;: getStepSound -> m_56776_
+Conflicting propagated mapping for net/minecraftforge/common/util/ForgeSoundType/getHitSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/level/block/SoundType/getHitSound()Lnet/minecraft/sounds/SoundEvent;: getHitSound -> m_56778_
+Conflicting propagated mapping for net/minecraftforge/common/util/ForgeSoundType/getBreakSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/level/block/SoundType/getBreakSound()Lnet/minecraft/sounds/SoundEvent;: getBreakSound -> m_56775_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModRecipesProvider/oreSmelting(Ljava/util/function/Consumer;Ljava/util/List;Lnet/minecraft/data/recipes/RecipeCategory;Lnet/minecraft/world/level/ItemLike;FILjava/lang/String;)V from net/minecraft/data/recipes/RecipeProvider/oreSmelting(Ljava/util/function/Consumer;Ljava/util/List;Lnet/minecraft/data/recipes/RecipeCategory;Lnet/minecraft/world/level/ItemLike;FILjava/lang/String;)V: oreSmelting -> m_246272_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModRecipesProvider/oreBlasting(Ljava/util/function/Consumer;Ljava/util/List;Lnet/minecraft/data/recipes/RecipeCategory;Lnet/minecraft/world/level/ItemLike;FILjava/lang/String;)V from net/minecraft/data/recipes/RecipeProvider/oreBlasting(Ljava/util/function/Consumer;Ljava/util/List;Lnet/minecraft/data/recipes/RecipeCategory;Lnet/minecraft/world/level/ItemLike;FILjava/lang/String;)V: oreBlasting -> m_245412_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModRecipesProvider/buildRecipes(Ljava/util/function/Consumer;)V from net/minecraft/data/recipes/RecipeProvider/buildRecipes(Ljava/util/function/Consumer;)V: buildRecipes -> m_245200_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModRecipesProvider/oreCooking(Ljava/util/function/Consumer;Lnet/minecraft/world/item/crafting/RecipeSerializer;Ljava/util/List;Lnet/minecraft/data/recipes/RecipeCategory;Lnet/minecraft/world/level/ItemLike;FILjava/lang/String;Ljava/lang/String;)V from net/minecraft/data/recipes/RecipeProvider/oreCooking(Ljava/util/function/Consumer;Lnet/minecraft/world/item/crafting/RecipeSerializer;Ljava/util/List;Lnet/minecraft/data/recipes/RecipeCategory;Lnet/minecraft/world/level/ItemLike;FILjava/lang/String;Ljava/lang/String;)V: oreCooking -> m_245809_
+Conflicting propagated mapping for net/minecraftforge/client/model/generators/ModelProvider/run(Lnet/minecraft/data/CachedOutput;)Ljava/util/concurrent/CompletableFuture; from net/minecraft/data/DataProvider/run(Lnet/minecraft/data/CachedOutput;)Ljava/util/concurrent/CompletableFuture;: run -> m_213708_
+Conflicting propagated mapping for net/minecraftforge/client/model/generators/ItemModelProvider/getName()Ljava/lang/String; from net/minecraft/data/DataProvider/getName()Ljava/lang/String;: getName -> m_6055_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModPoiTypeTagsProvider/addTags(Lnet/minecraft/core/HolderLookup$Provider;)V from net/minecraft/data/tags/PoiTypeTagsProvider/addTags(Lnet/minecraft/core/HolderLookup$Provider;)V: addTags -> m_6577_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/loot/ModBlockLootTables/generate()V from net/minecraft/data/loot/BlockLootSubProvider/generate()V: generate -> m_245660_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModBlockTagGenerator/addTags(Lnet/minecraft/core/HolderLookup$Provider;)V from net/minecraft/data/tags/TagsProvider/addTags(Lnet/minecraft/core/HolderLookup$Provider;)V: addTags -> m_6577_
+Conflicting propagated mapping for net/minecraftforge/common/data/GlobalLootModifierProvider/run(Lnet/minecraft/data/CachedOutput;)Ljava/util/concurrent/CompletableFuture; from net/minecraft/data/DataProvider/run(Lnet/minecraft/data/CachedOutput;)Ljava/util/concurrent/CompletableFuture;: run -> m_213708_
+Conflicting propagated mapping for net/minecraftforge/common/data/GlobalLootModifierProvider/getName()Ljava/lang/String; from net/minecraft/data/DataProvider/getName()Ljava/lang/String;: getName -> m_6055_
+Conflicting propagated mapping for net/irie/iriesmod/datagen/ModItemTagGenerator/addTags(Lnet/minecraft/core/HolderLookup$Provider;)V from net/minecraft/data/tags/TagsProvider/addTags(Lnet/minecraft/core/HolderLookup$Provider;)V: addTags -> m_6577_
+Conflicting propagated mapping for net/minecraftforge/client/model/generators/BlockStateProvider/run(Lnet/minecraft/data/CachedOutput;)Ljava/util/concurrent/CompletableFuture; from net/minecraft/data/DataProvider/run(Lnet/minecraft/data/CachedOutput;)Ljava/util/concurrent/CompletableFuture;: run -> m_213708_
+Conflicting propagated mapping for net/minecraftforge/client/model/generators/BlockStateProvider/getName()Ljava/lang/String; from net/minecraft/data/DataProvider/getName()Ljava/lang/String;: getName -> m_6055_
+Conflicting propagated mapping for net/irie/iriesmod/block/entity/ModSignBlockEntity/getType()Lnet/minecraft/world/level/block/entity/BlockEntityType; from net/minecraft/world/level/block/entity/BlockEntity/getType()Lnet/minecraft/world/level/block/entity/BlockEntityType;: getType -> m_58903_
+Conflicting propagated mapping for net/irie/iriesmod/block/entity/ModHangingSignBlockEntity/getType()Lnet/minecraft/world/level/block/entity/BlockEntityType; from net/minecraft/world/level/block/entity/BlockEntity/getType()Lnet/minecraft/world/level/block/entity/BlockEntityType;: getType -> m_58903_
+Conflicting propagated mapping for net/minecraftforge/common/loot/LootTableIdCondition$Builder/build()Lnet/minecraft/world/level/storage/loot/predicates/LootItemCondition; from net/minecraft/world/level/storage/loot/predicates/LootItemCondition$Builder/build()Lnet/minecraft/world/level/storage/loot/predicates/LootItemCondition;: build -> m_6409_
+Conflicting propagated mapping for net/minecraftforge/common/loot/LootTableIdCondition/getType()Lnet/minecraft/world/level/storage/loot/predicates/LootItemConditionType; from net/minecraft/world/level/storage/loot/predicates/LootItemCondition/getType()Lnet/minecraft/world/level/storage/loot/predicates/LootItemConditionType;: getType -> m_7940_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/SoundBlock/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/BlockGetter;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/level/block/Block/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/BlockGetter;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_5871_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/SoundBlock/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/ModStandingSignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/SignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/ModHangingSignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/CeilingHangingSignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/ModWallSignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/SignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/ModWallHangingSignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity; from net/minecraft/world/level/block/WallHangingSignBlock/newBlockEntity(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;: newBlockEntity -> m_142194_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/StrawberryCropBlock/getMaxAge()I from net/minecraft/world/level/block/CropBlock/getMaxAge()I: getMaxAge -> m_7419_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/StrawberryCropBlock/getAgeProperty()Lnet/minecraft/world/level/block/state/properties/IntegerProperty; from net/minecraft/world/level/block/CropBlock/getAgeProperty()Lnet/minecraft/world/level/block/state/properties/IntegerProperty;: getAgeProperty -> m_7959_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/StrawberryCropBlock/getBaseSeedId()Lnet/minecraft/world/level/ItemLike; from net/minecraft/world/level/block/CropBlock/getBaseSeedId()Lnet/minecraft/world/level/ItemLike;: getBaseSeedId -> m_6404_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/getMaxAge()I from net/minecraft/world/level/block/CropBlock/getMaxAge()I: getMaxAge -> m_7419_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/getAgeProperty()Lnet/minecraft/world/level/block/state/properties/IntegerProperty; from net/minecraft/world/level/block/CropBlock/getAgeProperty()Lnet/minecraft/world/level/block/state/properties/IntegerProperty;: getAgeProperty -> m_7959_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/canSurvive(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z from net/minecraft/world/level/block/CropBlock/canSurvive(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z: canSurvive -> m_7898_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/getBaseSeedId()Lnet/minecraft/world/level/ItemLike; from net/minecraft/world/level/block/CropBlock/getBaseSeedId()Lnet/minecraft/world/level/ItemLike;: getBaseSeedId -> m_6404_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/growCrops(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V from net/minecraft/world/level/block/CropBlock/growCrops(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V: growCrops -> m_52263_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/getShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape; from net/minecraft/world/level/block/CropBlock/getShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;: getShape -> m_5940_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/randomTick(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V from net/minecraft/world/level/block/CropBlock/randomTick(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V: randomTick -> m_213898_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/CornCropBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/CropBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/irie/iriesmod/block/custom/StrawberryCropBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V from net/minecraft/world/level/block/CropBlock/createBlockStateDefinition(Lnet/minecraft/world/level/block/state/StateDefinition$Builder;)V: createBlockStateDefinition -> m_7926_
+Conflicting propagated mapping for net/minecraftforge/client/model/generators/BlockModelProvider/getName()Ljava/lang/String; from net/minecraft/data/DataProvider/getName()Ljava/lang/String;: getName -> m_6055_
+Adding extras
+Sorting
+Writing Output: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/reobfJar/output.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  .cache/
+  .cache/103d9f3f36b01595f1aa5172191e60eff02e6924
+  .cache/245a02d7974bfd9ecfb55ca67301d694f537d30b
+  .cache/29452ad3ac05e8d5c20d697cbe0a5891216e8018
+  .cache/59eb3dbb5f86130e09b3c62d89b9525ee01cf52d
+  .cache/6dd9a6a2336ac97cba173f364fdf1bd64e726845
+  .cache/9fb1092f32d4fcbf9e061ffd718d4ec689c6c95e
+  .cache/d39def9bb12444af90168f41b56f203f6e6936d3
+  .cache/d70d055075e93add82672dae6f7d294f9d3d7a07
+  .cache/e8240c9e37cdb7b5e4e3020bfce67224c72d5e21
+  META-INF/mods.toml
+  assets/
+  assets/iriesmod/
+  assets/iriesmod/blockstates/
+  assets/iriesmod/blockstates/corn_crop.json
+  assets/iriesmod/blockstates/deepslate_sapphire_ore.json
+  assets/iriesmod/blockstates/dice_block.json
+  assets/iriesmod/blockstates/end_stone_sapphire_ore.json
+  assets/iriesmod/blockstates/mod_portal.json
+  assets/iriesmod/blockstates/nether_sapphire_ore.json
+  assets/iriesmod/blockstates/pine_hanging_sign.json
+  assets/iriesmod/blockstates/pine_leaves.json
+  assets/iriesmod/blockstates/pine_log.json
+  assets/iriesmod/blockstates/pine_planks.json
+  assets/iriesmod/blockstates/pine_sapling.json
+  assets/iriesmod/blockstates/pine_sign.json
+  assets/iriesmod/blockstates/pine_wall_hanging_sign.json
+  assets/iriesmod/blockstates/pine_wall_sign.json
+  assets/iriesmod/blockstates/pine_wood.json
+  assets/iriesmod/blockstates/raw_sapphire_block.json
+  assets/iriesmod/blockstates/sapphire_block.json
+  assets/iriesmod/blockstates/sapphire_button.json
+  assets/iriesmod/blockstates/sapphire_door.json
+  assets/iriesmod/blockstates/sapphire_fence.json
+  assets/iriesmod/blockstates/sapphire_fence_gate.json
+  assets/iriesmod/blockstates/sapphire_ore.json
+  assets/iriesmod/blockstates/sapphire_pressure_plate.json
+  assets/iriesmod/blockstates/sapphire_slab.json
+  assets/iriesmod/blockstates/sapphire_stairs.json
+  assets/iriesmod/blockstates/sapphire_trapdoor.json
+  assets/iriesmod/blockstates/sapphire_wall.json
+  assets/iriesmod/blockstates/sound_block.json
+  assets/iriesmod/blockstates/strawberry_crop.json
+  assets/iriesmod/blockstates/stripped_pine_log.json
+  assets/iriesmod/blockstates/stripped_pine_wood.json
+  assets/iriesmod/lang/
+  assets/iriesmod/lang/en_us.json
+  assets/iriesmod/models/
+  assets/iriesmod/models/block/
+  assets/iriesmod/models/block/corn_stage_0.json
+  assets/iriesmod/models/block/corn_stage_1.json
+  assets/iriesmod/models/block/corn_stage_2.json
+  assets/iriesmod/models/block/corn_stage_3.json
+  assets/iriesmod/models/block/corn_stage_4.json
+  assets/iriesmod/models/block/corn_stage_5.json
+  assets/iriesmod/models/block/corn_stage_6.json
+  assets/iriesmod/models/block/corn_stage_7.json
+  assets/iriesmod/models/block/corn_stage_8.json
+  assets/iriesmod/models/block/deepslate_sapphire_ore.json
+  assets/iriesmod/models/block/dice_1.json
+  assets/iriesmod/models/block/dice_2.json
+  assets/iriesmod/models/block/dice_3.json
+  assets/iriesmod/models/block/dice_4.json
+  assets/iriesmod/models/block/dice_5.json
+  assets/iriesmod/models/block/dice_6.json
+  assets/iriesmod/models/block/end_stone_sapphire_ore.json
+  assets/iriesmod/models/block/mod_portal.json
+  assets/iriesmod/models/block/nether_sapphire_ore.json
+  assets/iriesmod/models/block/pine_hanging_sign.json
+  assets/iriesmod/models/block/pine_leaves.json
+  assets/iriesmod/models/block/pine_log.json
+  assets/iriesmod/models/block/pine_log_horizontal.json
+  assets/iriesmod/models/block/pine_planks.json
+  assets/iriesmod/models/block/pine_sapling.json
+  assets/iriesmod/models/block/pine_sign.json
+  assets/iriesmod/models/block/pine_wood.json
+  assets/iriesmod/models/block/pine_wood_horizontal.json
+  assets/iriesmod/models/block/raw_sapphire_block.json
+  assets/iriesmod/models/block/sapphire_block.json
+  assets/iriesmod/models/block/sapphire_button.json
+  assets/iriesmod/models/block/sapphire_button_pressed.json
+  assets/iriesmod/models/block/sapphire_door_bottom_left.json
+  assets/iriesmod/models/block/sapphire_door_bottom_left_open.json
+  assets/iriesmod/models/block/sapphire_door_bottom_right.json
+  assets/iriesmod/models/block/sapphire_door_bottom_right_open.json
+  assets/iriesmod/models/block/sapphire_door_top_left.json
+  assets/iriesmod/models/block/sapphire_door_top_left_open.json
+  assets/iriesmod/models/block/sapphire_door_top_right.json
+  assets/iriesmod/models/block/sapphire_door_top_right_open.json
+  assets/iriesmod/models/block/sapphire_fence_gate.json
+  assets/iriesmod/models/block/sapphire_fence_gate_open.json
+  assets/iriesmod/models/block/sapphire_fence_gate_wall.json
+  assets/iriesmod/models/block/sapphire_fence_gate_wall_open.json
+  assets/iriesmod/models/block/sapphire_fence_post.json
+  assets/iriesmod/models/block/sapphire_fence_side.json
+  assets/iriesmod/models/block/sapphire_ore.json
+  assets/iriesmod/models/block/sapphire_pressure_plate.json
+  assets/iriesmod/models/block/sapphire_pressure_plate_down.json
+  assets/iriesmod/models/block/sapphire_slab.json
+  assets/iriesmod/models/block/sapphire_slab_top.json
+  assets/iriesmod/models/block/sapphire_stairs.json
+  assets/iriesmod/models/block/sapphire_stairs_inner.json
+  assets/iriesmod/models/block/sapphire_stairs_outer.json
+  assets/iriesmod/models/block/sapphire_trapdoor_bottom.json
+  assets/iriesmod/models/block/sapphire_trapdoor_open.json
+  assets/iriesmod/models/block/sapphire_trapdoor_top.json
+  assets/iriesmod/models/block/sapphire_wall_post.json
+  assets/iriesmod/models/block/sapphire_wall_side.json
+  assets/iriesmod/models/block/sapphire_wall_side_tall.json
+  assets/iriesmod/models/block/sound_block.json
+  assets/iriesmod/models/block/strawberry_stage0.json
+  assets/iriesmod/models/block/strawberry_stage1.json
+  assets/iriesmod/models/block/strawberry_stage2.json
+  assets/iriesmod/models/block/strawberry_stage3.json
+  assets/iriesmod/models/block/strawberry_stage4.json
+  assets/iriesmod/models/block/strawberry_stage5.json
+  assets/iriesmod/models/block/stripped_pine_log.json
+  assets/iriesmod/models/block/stripped_pine_log_horizontal.json
+  assets/iriesmod/models/block/stripped_pine_wood.json
+  assets/iriesmod/models/block/stripped_pine_wood_horizontal.json
+  assets/iriesmod/models/item/
+  assets/iriesmod/models/item/corn.json
+  assets/iriesmod/models/item/corn_seeds.json
+  assets/iriesmod/models/item/deepslate_sapphire_ore.json
+  assets/iriesmod/models/item/dice.json
+  assets/iriesmod/models/item/end_stone_sapphire_ore.json
+  assets/iriesmod/models/item/mod_portal.json
+  assets/iriesmod/models/item/nether_sapphire_ore.json
+  assets/iriesmod/models/item/ore_detector.json
+  assets/iriesmod/models/item/pine_boat.json
+  assets/iriesmod/models/item/pine_chest_boat.json
+  assets/iriesmod/models/item/pine_cone.json
+  assets/iriesmod/models/item/pine_hanging_sign.json
+  assets/iriesmod/models/item/pine_leaves.json
+  assets/iriesmod/models/item/pine_log.json
+  assets/iriesmod/models/item/pine_planks.json
+  assets/iriesmod/models/item/pine_sapling.json
+  assets/iriesmod/models/item/pine_sign.json
+  assets/iriesmod/models/item/pine_wood.json
+  assets/iriesmod/models/item/raw_sapphire.json
+  assets/iriesmod/models/item/raw_sapphire_block.json
+  assets/iriesmod/models/item/rhino_spawn_egg.json
+  assets/iriesmod/models/item/sapphire.json
+  assets/iriesmod/models/item/sapphire_axe.json
+  assets/iriesmod/models/item/sapphire_block.json
+  assets/iriesmod/models/item/sapphire_boots.json
+  assets/iriesmod/models/item/sapphire_boots_amethyst_trim.json
+  assets/iriesmod/models/item/sapphire_boots_copper_trim.json
+  assets/iriesmod/models/item/sapphire_boots_diamond_trim.json
+  assets/iriesmod/models/item/sapphire_boots_emerald_trim.json
+  assets/iriesmod/models/item/sapphire_boots_gold_trim.json
+  assets/iriesmod/models/item/sapphire_boots_iron_trim.json
+  assets/iriesmod/models/item/sapphire_boots_lapis_trim.json
+  assets/iriesmod/models/item/sapphire_boots_netherite_trim.json
+  assets/iriesmod/models/item/sapphire_boots_quartz_trim.json
+  assets/iriesmod/models/item/sapphire_boots_redstone_trim.json
+  assets/iriesmod/models/item/sapphire_button.json
+  assets/iriesmod/models/item/sapphire_chestplate.json
+  assets/iriesmod/models/item/sapphire_chestplate_amethyst_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_copper_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_diamond_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_emerald_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_gold_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_iron_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_lapis_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_netherite_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_quartz_trim.json
+  assets/iriesmod/models/item/sapphire_chestplate_redstone_trim.json
+  assets/iriesmod/models/item/sapphire_door.json
+  assets/iriesmod/models/item/sapphire_fence.json
+  assets/iriesmod/models/item/sapphire_fence_gate.json
+  assets/iriesmod/models/item/sapphire_helmet.json
+  assets/iriesmod/models/item/sapphire_helmet_amethyst_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_copper_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_diamond_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_emerald_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_gold_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_iron_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_lapis_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_netherite_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_quartz_trim.json
+  assets/iriesmod/models/item/sapphire_helmet_redstone_trim.json
+  assets/iriesmod/models/item/sapphire_hoe.json
+  assets/iriesmod/models/item/sapphire_leggings.json
+  assets/iriesmod/models/item/sapphire_leggings_amethyst_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_copper_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_diamond_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_emerald_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_gold_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_iron_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_lapis_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_netherite_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_quartz_trim.json
+  assets/iriesmod/models/item/sapphire_leggings_redstone_trim.json
+  assets/iriesmod/models/item/sapphire_ore.json
+  assets/iriesmod/models/item/sapphire_pickaxe.json
+  assets/iriesmod/models/item/sapphire_pressure_plate.json
+  assets/iriesmod/models/item/sapphire_shovel.json
+  assets/iriesmod/models/item/sapphire_slab.json
+  assets/iriesmod/models/item/sapphire_staff.json
+  assets/iriesmod/models/item/sapphire_staff_2d.json
+  assets/iriesmod/models/item/sapphire_staff_3d.json
+  assets/iriesmod/models/item/sapphire_stairs.json
+  assets/iriesmod/models/item/sapphire_sword.json
+  assets/iriesmod/models/item/sapphire_trapdoor.json
+  assets/iriesmod/models/item/sapphire_wall.json
+  assets/iriesmod/models/item/sound_block.json
+  assets/iriesmod/models/item/strawberry.json
+  assets/iriesmod/models/item/strawberry_seeds.json
+  assets/iriesmod/models/item/stripped_pine_log.json
+  assets/iriesmod/models/item/stripped_pine_wood.json
+  assets/iriesmod/sounds.json
+  assets/iriesmod/sounds/
+  assets/iriesmod/sounds/ore_detector_found_ore.ogg
+  assets/iriesmod/sounds/sound_block_break.ogg
+  assets/iriesmod/sounds/sound_block_fall.ogg
+  assets/iriesmod/sounds/sound_block_hit.ogg
+  assets/iriesmod/sounds/sound_block_place.ogg
+  assets/iriesmod/sounds/sound_block_step.ogg
+  assets/iriesmod/textures/
+  assets/iriesmod/textures/block/
+  assets/iriesmod/textures/block/corn_stage_0.png
+  assets/iriesmod/textures/block/corn_stage_1.png
+  assets/iriesmod/textures/block/corn_stage_2.png
+  assets/iriesmod/textures/block/corn_stage_3.png
+  assets/iriesmod/textures/block/corn_stage_4.png
+  assets/iriesmod/textures/block/corn_stage_5.png
+  assets/iriesmod/textures/block/corn_stage_6.png
+  assets/iriesmod/textures/block/corn_stage_7.png
+  assets/iriesmod/textures/block/corn_stage_8.png
+  assets/iriesmod/textures/block/deepslate_sapphire_ore.png
+  assets/iriesmod/textures/block/dice_1.png
+  assets/iriesmod/textures/block/dice_2.png
+  assets/iriesmod/textures/block/dice_3.png
+  assets/iriesmod/textures/block/dice_4.png
+  assets/iriesmod/textures/block/dice_5.png
+  assets/iriesmod/textures/block/dice_6.png
+  assets/iriesmod/textures/block/end_stone_sapphire_ore.png
+  assets/iriesmod/textures/block/mod_portal.png
+  assets/iriesmod/textures/block/nether_sapphire_ore.png
+  assets/iriesmod/textures/block/pine_leaves.png
+  assets/iriesmod/textures/block/pine_log.png
+  assets/iriesmod/textures/block/pine_log_top.png
+  assets/iriesmod/textures/block/pine_planks.png
+  assets/iriesmod/textures/block/pine_sapling.png
+  assets/iriesmod/textures/block/raw_sapphire_block.png
+  assets/iriesmod/textures/block/sapphire_block.png
+  assets/iriesmod/textures/block/sapphire_door_bottom.png
+  assets/iriesmod/textures/block/sapphire_door_top.png
+  assets/iriesmod/textures/block/sapphire_ore.png
+  assets/iriesmod/textures/block/sapphire_trapdoor.png
+  assets/iriesmod/textures/block/sound_block.png
+  assets/iriesmod/textures/block/strawberry_stage0.png
+  assets/iriesmod/textures/block/strawberry_stage1.png
+  assets/iriesmod/textures/block/strawberry_stage2.png
+  assets/iriesmod/textures/block/strawberry_stage3.png
+  assets/iriesmod/textures/block/strawberry_stage4.png
+  assets/iriesmod/textures/block/strawberry_stage5.png
+  assets/iriesmod/textures/block/stripped_pine_log.png
+  assets/iriesmod/textures/block/stripped_pine_log_top.png
+  assets/iriesmod/textures/entity/
+  assets/iriesmod/textures/entity/boat/
+  assets/iriesmod/textures/entity/boat/pine.png
+  assets/iriesmod/textures/entity/chest_boat/
+  assets/iriesmod/textures/entity/chest_boat/pine.png
+  assets/iriesmod/textures/entity/rhino.png
+  assets/iriesmod/textures/entity/signs/
+  assets/iriesmod/textures/entity/signs/hanging/
+  assets/iriesmod/textures/entity/signs/hanging/pine.png
+  assets/iriesmod/textures/entity/signs/pine.png
+  assets/iriesmod/textures/entity/villager/
+  assets/iriesmod/textures/entity/villager/profession/
+  assets/iriesmod/textures/entity/villager/profession/soundmaster.png
+  assets/iriesmod/textures/item/
+  assets/iriesmod/textures/item/corn.png
+  assets/iriesmod/textures/item/corn_seeds.png
+  assets/iriesmod/textures/item/dice.png
+  assets/iriesmod/textures/item/ore_detector.png
+  assets/iriesmod/textures/item/pine_boat.png
+  assets/iriesmod/textures/item/pine_chest_boat.png
+  assets/iriesmod/textures/item/pine_cone.png
+  assets/iriesmod/textures/item/pine_hanging_sign.png
+  assets/iriesmod/textures/item/pine_sign.png
+  assets/iriesmod/textures/item/raw_sapphire.png
+  assets/iriesmod/textures/item/sapphire.png
+  assets/iriesmod/textures/item/sapphire_axe.png
+  assets/iriesmod/textures/item/sapphire_boots.png
+  assets/iriesmod/textures/item/sapphire_chestplate.png
+  assets/iriesmod/textures/item/sapphire_door.png
+  assets/iriesmod/textures/item/sapphire_helmet.png
+  assets/iriesmod/textures/item/sapphire_hoe.png
+  assets/iriesmod/textures/item/sapphire_leggings.png
+  assets/iriesmod/textures/item/sapphire_pickaxe.png
+  assets/iriesmod/textures/item/sapphire_shovel.png
+  assets/iriesmod/textures/item/sapphire_staff.png
+  assets/iriesmod/textures/item/sapphire_staff_3d.png
+  assets/iriesmod/textures/item/sapphire_sword.png
+  assets/iriesmod/textures/item/strawberry.png
+  assets/iriesmod/textures/item/strawberry_seeds.png
+  assets/iriesmod/textures/models/
+  assets/iriesmod/textures/models/armor/
+  assets/iriesmod/textures/models/armor/sapphire_layer_1.png
+  assets/iriesmod/textures/models/armor/sapphire_layer_2.png
+  data/
+  data/forge/
+  data/forge/loot_modifiers/
+  data/forge/loot_modifiers/global_loot_modifiers.json
+  data/forge/tags/
+  data/forge/tags/blocks/
+  data/forge/tags/blocks/needs_netherite_tool.json
+  data/iriesmod/
+  data/iriesmod/advancements/
+  data/iriesmod/advancements/recipes/
+  data/iriesmod/advancements/recipes/building_blocks/
+  data/iriesmod/advancements/recipes/building_blocks/pine_planks.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_button.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_door.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_fence.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_fence_gate.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_pressure_plate.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_slab.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_stairs.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_trapdoor.json
+  data/iriesmod/advancements/recipes/building_blocks/sapphire_wall.json
+  data/iriesmod/advancements/recipes/combat/
+  data/iriesmod/advancements/recipes/combat/sapphire_boots.json
+  data/iriesmod/advancements/recipes/combat/sapphire_chestplate.json
+  data/iriesmod/advancements/recipes/combat/sapphire_helmet.json
+  data/iriesmod/advancements/recipes/combat/sapphire_leggings.json
+  data/iriesmod/advancements/recipes/decorations/
+  data/iriesmod/advancements/recipes/decorations/pine_hanging_sign.json
+  data/iriesmod/advancements/recipes/decorations/pine_sign.json
+  data/iriesmod/advancements/recipes/misc/
+  data/iriesmod/advancements/recipes/misc/mod_portal.json
+  data/iriesmod/advancements/recipes/misc/sapphire.json
+  data/iriesmod/advancements/recipes/misc/sapphire_block.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_blasting_deepslate_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_blasting_end_stone_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_blasting_nether_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_blasting_raw_sapphire.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_blasting_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_smelting_deepslate_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_smelting_end_stone_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_smelting_nether_sapphire_ore.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_smelting_raw_sapphire.json
+  data/iriesmod/advancements/recipes/misc/sapphire_from_smelting_sapphire_ore.json
+  data/iriesmod/advancements/recipes/tools/
+  data/iriesmod/advancements/recipes/tools/ore_detector.json
+  data/iriesmod/advancements/recipes/tools/sapphire_axe.json
+  data/iriesmod/advancements/recipes/tools/sapphire_hoe.json
+  data/iriesmod/advancements/recipes/tools/sapphire_pickaxe.json
+  data/iriesmod/advancements/recipes/tools/sapphire_shovel.json
+  data/iriesmod/advancements/recipes/tools/sapphire_sword.json
+  data/iriesmod/advancements/recipes/transportation/
+  data/iriesmod/advancements/recipes/transportation/pine_boat.json
+  data/iriesmod/advancements/recipes/transportation/pine_chest_boat.json
+  data/iriesmod/dimension/
+  data/iriesmod/dimension/kaupendim.json
+  data/iriesmod/dimension_type/
+  data/iriesmod/dimension_type/kaupendim_type.json
+  data/iriesmod/forge/
+  data/iriesmod/forge/biome_modifier/
+  data/iriesmod/forge/biome_modifier/add_end_sapphire_ore.json
+  data/iriesmod/forge/biome_modifier/add_nether_sapphire_ore.json
+  data/iriesmod/forge/biome_modifier/add_sapphire_ore.json
+  data/iriesmod/forge/biome_modifier/add_tree_pine.json
+  data/iriesmod/loot_modifiers/
+  data/iriesmod/loot_modifiers/corn_seeds_from_grass.json
+  data/iriesmod/loot_modifiers/ore_detector_from_village_toolsmith.json
+  data/iriesmod/loot_modifiers/pine_cone_from_grass.json
+  data/iriesmod/loot_modifiers/pine_cone_from_tree.json
+  data/iriesmod/loot_modifiers/sapphire_from_creeper.json
+  data/iriesmod/loot_tables/
+  data/iriesmod/loot_tables/blocks/
+  data/iriesmod/loot_tables/blocks/corn_crop.json
+  data/iriesmod/loot_tables/blocks/deepslate_sapphire_ore.json
+  data/iriesmod/loot_tables/blocks/end_stone_sapphire_ore.json
+  data/iriesmod/loot_tables/blocks/nether_sapphire_ore.json
+  data/iriesmod/loot_tables/blocks/pine_hanging_sign.json
+  data/iriesmod/loot_tables/blocks/pine_leaves.json
+  data/iriesmod/loot_tables/blocks/pine_log.json
+  data/iriesmod/loot_tables/blocks/pine_planks.json
+  data/iriesmod/loot_tables/blocks/pine_sapling.json
+  data/iriesmod/loot_tables/blocks/pine_sign.json
+  data/iriesmod/loot_tables/blocks/pine_wall_hanging_sign.json
+  data/iriesmod/loot_tables/blocks/pine_wall_sign.json
+  data/iriesmod/loot_tables/blocks/pine_wood.json
+  data/iriesmod/loot_tables/blocks/raw_sapphire_block.json
+  data/iriesmod/loot_tables/blocks/sapphire_block.json
+  data/iriesmod/loot_tables/blocks/sapphire_button.json
+  data/iriesmod/loot_tables/blocks/sapphire_door.json
+  data/iriesmod/loot_tables/blocks/sapphire_fence.json
+  data/iriesmod/loot_tables/blocks/sapphire_fence_gate.json
+  data/iriesmod/loot_tables/blocks/sapphire_ore.json
+  data/iriesmod/loot_tables/blocks/sapphire_pressure_plate.json
+  data/iriesmod/loot_tables/blocks/sapphire_slab.json
+  data/iriesmod/loot_tables/blocks/sapphire_stairs.json
+  data/iriesmod/loot_tables/blocks/sapphire_trapdoor.json
+  data/iriesmod/loot_tables/blocks/sapphire_wall.json
+  data/iriesmod/loot_tables/blocks/sound_block.json
+  data/iriesmod/loot_tables/blocks/strawberry_crop.json
+  data/iriesmod/loot_tables/blocks/stripped_pine_log.json
+  data/iriesmod/loot_tables/blocks/stripped_pine_wood.json
+  data/iriesmod/recipes/
+  data/iriesmod/recipes/mod_portal.json
+  data/iriesmod/recipes/ore_detector.json
+  data/iriesmod/recipes/pine_boat.json
+  data/iriesmod/recipes/pine_chest_boat.json
+  data/iriesmod/recipes/pine_hanging_sign.json
+  data/iriesmod/recipes/pine_planks.json
+  data/iriesmod/recipes/pine_sign.json
+  data/iriesmod/recipes/sapphire.json
+  data/iriesmod/recipes/sapphire_axe.json
+  data/iriesmod/recipes/sapphire_block.json
+  data/iriesmod/recipes/sapphire_boots.json
+  data/iriesmod/recipes/sapphire_button.json
+  data/iriesmod/recipes/sapphire_chestplate.json
+  data/iriesmod/recipes/sapphire_door.json
+  data/iriesmod/recipes/sapphire_fence.json
+  data/iriesmod/recipes/sapphire_fence_gate.json
+  data/iriesmod/recipes/sapphire_from_blasting_deepslate_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_blasting_end_stone_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_blasting_nether_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_blasting_raw_sapphire.json
+  data/iriesmod/recipes/sapphire_from_blasting_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_smelting_deepslate_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_smelting_end_stone_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_smelting_nether_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_from_smelting_raw_sapphire.json
+  data/iriesmod/recipes/sapphire_from_smelting_sapphire_ore.json
+  data/iriesmod/recipes/sapphire_helmet.json
+  data/iriesmod/recipes/sapphire_hoe.json
+  data/iriesmod/recipes/sapphire_leggings.json
+  data/iriesmod/recipes/sapphire_pickaxe.json
+  data/iriesmod/recipes/sapphire_pressure_plate.json
+  data/iriesmod/recipes/sapphire_shovel.json
+  data/iriesmod/recipes/sapphire_slab.json
+  data/iriesmod/recipes/sapphire_stairs.json
+  data/iriesmod/recipes/sapphire_sword.json
+  data/iriesmod/recipes/sapphire_trapdoor.json
+  data/iriesmod/recipes/sapphire_wall.json
+  data/iriesmod/tags/
+  data/iriesmod/tags/blocks/
+  data/iriesmod/tags/blocks/needs_sapphire_tool.json
+  data/iriesmod/tags/blocks/ore_detector_valuables.json
+  data/iriesmod/worldgen/
+  data/iriesmod/worldgen/biome/
+  data/iriesmod/worldgen/biome/test_biome.json
+  data/iriesmod/worldgen/configured_feature/
+  data/iriesmod/worldgen/configured_feature/end_sapphire_ore.json
+  data/iriesmod/worldgen/configured_feature/nether_sapphire_ore.json
+  data/iriesmod/worldgen/configured_feature/pine.json
+  data/iriesmod/worldgen/configured_feature/sapphire_ore.json
+  data/iriesmod/worldgen/placed_feature/
+  data/iriesmod/worldgen/placed_feature/end_sapphire_ore_placed.json
+  data/iriesmod/worldgen/placed_feature/nether_sapphire_ore_placed.json
+  data/iriesmod/worldgen/placed_feature/pine_placed.json
+  data/iriesmod/worldgen/placed_feature/sapphire_ore_placed.json
+  data/minecraft/
+  data/minecraft/tags/
+  data/minecraft/tags/blocks/
+  data/minecraft/tags/blocks/fence_gates.json
+  data/minecraft/tags/blocks/fences.json
+  data/minecraft/tags/blocks/logs_that_burn.json
+  data/minecraft/tags/blocks/mineable/
+  data/minecraft/tags/blocks/mineable/axe.json
+  data/minecraft/tags/blocks/mineable/pickaxe.json
+  data/minecraft/tags/blocks/needs_diamond_tool.json
+  data/minecraft/tags/blocks/needs_iron_tool.json
+  data/minecraft/tags/blocks/needs_stone_tool.json
+  data/minecraft/tags/blocks/planks.json
+  data/minecraft/tags/blocks/walls.json
+  data/minecraft/tags/items/
+  data/minecraft/tags/items/logs_that_burn.json
+  data/minecraft/tags/items/planks.json
+  data/minecraft/tags/items/trimmable_armor.json
+  data/minecraft/tags/point_of_interest_type/
+  data/minecraft/tags/point_of_interest_type/acquirable_job_site.json
+  net/
+  net/irie/
+  net/irie/iriesmod/
+  net/irie/iriesmod/IriesMod$ClientModEvents.class
+  net/irie/iriesmod/IriesMod.class
+  net/irie/iriesmod/block/
+  net/irie/iriesmod/block/ModBlocks$1.class
+  net/irie/iriesmod/block/ModBlocks$2.class
+  net/irie/iriesmod/block/ModBlocks.class
+  net/irie/iriesmod/block/custom/
+  net/irie/iriesmod/block/custom/CornCropBlock.class
+  net/irie/iriesmod/block/custom/DiceBlock.class
+  net/irie/iriesmod/block/custom/ModFlammableRotatedPillarBlock.class
+  net/irie/iriesmod/block/custom/ModHangingSignBlock.class
+  net/irie/iriesmod/block/custom/ModPortalBlock.class
+  net/irie/iriesmod/block/custom/ModStandingSignBlock.class
+  net/irie/iriesmod/block/custom/ModWallHangingSignBlock.class
+  net/irie/iriesmod/block/custom/ModWallSignBlock.class
+  net/irie/iriesmod/block/custom/SoundBlock.class
+  net/irie/iriesmod/block/custom/StrawberryCropBlock.class
+  net/irie/iriesmod/block/entity/
+  net/irie/iriesmod/block/entity/ModBlockEntities.class
+  net/irie/iriesmod/block/entity/ModHangingSignBlockEntity.class
+  net/irie/iriesmod/block/entity/ModSignBlockEntity.class
+  net/irie/iriesmod/compat/
+  net/irie/iriesmod/compat/JEIIriesModPlugin.class
+  net/irie/iriesmod/datagen/
+  net/irie/iriesmod/datagen/DataGenerators.class
+  net/irie/iriesmod/datagen/ModBlockStateProvider.class
+  net/irie/iriesmod/datagen/ModBlockTagGenerator.class
+  net/irie/iriesmod/datagen/ModGlobalLootModifiersProvider.class
+  net/irie/iriesmod/datagen/ModItemModelProvider$1.class
+  net/irie/iriesmod/datagen/ModItemModelProvider.class
+  net/irie/iriesmod/datagen/ModItemTagGenerator.class
+  net/irie/iriesmod/datagen/ModLootTableProvider.class
+  net/irie/iriesmod/datagen/ModPoiTypeTagsProvider.class
+  net/irie/iriesmod/datagen/ModRecipesProvider.class
+  net/irie/iriesmod/datagen/ModWorldGenProvider.class
+  net/irie/iriesmod/datagen/loot/
+  net/irie/iriesmod/datagen/loot/ModBlockLootTables.class
+  net/irie/iriesmod/entity/
+  net/irie/iriesmod/entity/ModEntities.class
+  net/irie/iriesmod/entity/ai/
+  net/irie/iriesmod/entity/ai/RhinoAttackGoal.class
+  net/irie/iriesmod/entity/animations/
+  net/irie/iriesmod/entity/animations/ModAnimationDefinitions.class
+  net/irie/iriesmod/entity/client/
+  net/irie/iriesmod/entity/client/ModBoatRenderer.class
+  net/irie/iriesmod/entity/client/ModModelLayers.class
+  net/irie/iriesmod/entity/client/RhinoModel.class
+  net/irie/iriesmod/entity/client/RhinoRenderer.class
+  net/irie/iriesmod/entity/custom/
+  net/irie/iriesmod/entity/custom/DiceProjectileEntity.class
+  net/irie/iriesmod/entity/custom/ModBoatEntity$1.class
+  net/irie/iriesmod/entity/custom/ModBoatEntity$Type.class
+  net/irie/iriesmod/entity/custom/ModBoatEntity.class
+  net/irie/iriesmod/entity/custom/ModChestBoatEntity$1.class
+  net/irie/iriesmod/entity/custom/ModChestBoatEntity.class
+  net/irie/iriesmod/entity/custom/RhinoEntity.class
+  net/irie/iriesmod/event/
+  net/irie/iriesmod/event/ModEventBusClientEvents.class
+  net/irie/iriesmod/event/ModEventBusEvents.class
+  net/irie/iriesmod/event/ModEvents.class
+  net/irie/iriesmod/item/
+  net/irie/iriesmod/item/ModArmorMaterials.class
+  net/irie/iriesmod/item/ModCreativeModeTabs.class
+  net/irie/iriesmod/item/ModFoods.class
+  net/irie/iriesmod/item/ModItems.class
+  net/irie/iriesmod/item/ModToolTiers.class
+  net/irie/iriesmod/item/custom/
+  net/irie/iriesmod/item/custom/DiceItem.class
+  net/irie/iriesmod/item/custom/FuelItem.class
+  net/irie/iriesmod/item/custom/ModArmorItem.class
+  net/irie/iriesmod/item/custom/ModBoatItem.class
+  net/irie/iriesmod/item/custom/OreDetectorItem.class
+  net/irie/iriesmod/loot/
+  net/irie/iriesmod/loot/AddItemModifier.class
+  net/irie/iriesmod/loot/ModLootModifiers.class
+  net/irie/iriesmod/sound/
+  net/irie/iriesmod/sound/ModSounds.class
+  net/irie/iriesmod/util/
+  net/irie/iriesmod/util/ModTags$Blocks.class
+  net/irie/iriesmod/util/ModTags$Items.class
+  net/irie/iriesmod/util/ModTags.class
+  net/irie/iriesmod/util/ModWoodTypes.class
+  net/irie/iriesmod/villager/
+  net/irie/iriesmod/villager/ModVillagers.class
+  net/irie/iriesmod/worldgen/
+  net/irie/iriesmod/worldgen/ModBiomeModifiers.class
+  net/irie/iriesmod/worldgen/ModConfiguredFeatures.class
+  net/irie/iriesmod/worldgen/ModOrePlacement.class
+  net/irie/iriesmod/worldgen/ModPlacedFeatures.class
+  net/irie/iriesmod/worldgen/biome/
+  net/irie/iriesmod/worldgen/biome/ModBiomes.class
+  net/irie/iriesmod/worldgen/biome/ModOverworldRegion.class
+  net/irie/iriesmod/worldgen/biome/ModTerrablender.class
+  net/irie/iriesmod/worldgen/biome/surface/
+  net/irie/iriesmod/worldgen/biome/surface/ModSurfaceRules.class
+  net/irie/iriesmod/worldgen/dimension/
+  net/irie/iriesmod/worldgen/dimension/ModDimensions.class
+  net/irie/iriesmod/worldgen/portal/
+  net/irie/iriesmod/worldgen/portal/ModTeleporter.class
+  net/irie/iriesmod/worldgen/tree/
+  net/irie/iriesmod/worldgen/tree/ModFoliagePlacers.class
+  net/irie/iriesmod/worldgen/tree/ModTrunkPlacerTypes.class
+  net/irie/iriesmod/worldgen/tree/PineTreeGrower.class
+  net/irie/iriesmod/worldgen/tree/custom/
+  net/irie/iriesmod/worldgen/tree/custom/PineFoliagePlacer.class
+  net/irie/iriesmod/worldgen/tree/custom/PineTrunkPlacer.class
+  pack.mcmeta
