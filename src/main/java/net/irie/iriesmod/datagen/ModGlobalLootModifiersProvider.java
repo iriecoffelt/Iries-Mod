@@ -21,7 +21,7 @@ public class ModGlobalLootModifiersProvider extends GlobalLootModifierProvider {
     @Override
     protected void start() {
         add("pine_cone_from_grass", new AddItemModifier(new LootItemCondition[] {
-                LootItemBlockStatePropertyCondition.hasBlockStateProperties(Blocks.GRASS).build(),
+                LootItemBlockStatePropertyCondition.hasBlockStateProperties(ModBlocks.PINE_LEAVES.get()).build(),
                 LootItemRandomChanceCondition.randomChance(0.35f).build()}, ModItems.PINE_CONE.get()));
 
         add("corn_seeds_from_grass", new AddItemModifier(new LootItemCondition[] {

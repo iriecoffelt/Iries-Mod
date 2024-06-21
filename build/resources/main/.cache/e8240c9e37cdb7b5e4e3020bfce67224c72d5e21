@@ -1,9 +1,16 @@
-// 1.20	2024-06-20T09:19:25.607899	Item Models: iriesmod
+// 1.20	2024-06-21T10:19:02.532078	Item Models: iriesmod
 d4cd93a08d63317b8122e320865a5e29c8985611 assets/iriesmod/models/item/corn.json
 f1750095f51bf8832c97dd96ef4604a634369582 assets/iriesmod/models/item/corn_seeds.json
+70af38e59c36763503bd0e1ad5da95336de7dc98 assets/iriesmod/models/item/dice.json
 c3e5b9432a61f7a68774c244fb62efb5ffe7fefa assets/iriesmod/models/item/ore_detector.json
+9b04f1c980a25cc4977a1b843b999b3a325afd16 assets/iriesmod/models/item/pine_boat.json
+c519c9a18054624187a37323b2009be56ef5ca8e assets/iriesmod/models/item/pine_chest_boat.json
 79e9ad8922215fd3861eff4ffbf6c77a1cf882f6 assets/iriesmod/models/item/pine_cone.json
+a36732619577f4bcbb498b0146b47ef9ccf449bd assets/iriesmod/models/item/pine_hanging_sign.json
+7be35658375aa960f08d96a77b3e9f908101a1ec assets/iriesmod/models/item/pine_sapling.json
+c0c6ec0f7f859367bdfcac8d2527f8371f53dd6f assets/iriesmod/models/item/pine_sign.json
 fa9f6cdae6861eede2be537bfd0b0f33d2e1f6b0 assets/iriesmod/models/item/raw_sapphire.json
+63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/iriesmod/models/item/rhino_spawn_egg.json
 c1c78788cb20c0c9bb40600c96407ed2798089b7 assets/iriesmod/models/item/sapphire.json
 46fcc2b679267d301929d597302be1f30e05633e assets/iriesmod/models/item/sapphire_axe.json
 521085c3912c3ae45e7adc18ee8fc84648c8c1ce assets/iriesmod/models/item/sapphire_boots.json

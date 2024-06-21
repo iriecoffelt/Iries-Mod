@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "iriesmod:block/pine_log_top",
+    "side": "iriesmod:block/pine_log"
+  }
+}

@@ -9,6 +9,11 @@
   "item.iriesmod.pine_cone": "Pine Cone",
   "item.iriesmod.sapphire_staff": "Sapphire Staff",
 
+  "item.iriesmod.pine_boat": "Pine Boat",
+  "item.iriesmod.pine_chest_boat": "Pine Chest Boat",
+
+  "item.iriesmod.dice": "Dice",
+
   "item.iriesmod.sapphire_pickaxe": "Sapphire Pickaxe",
   "item.iriesmod.sapphire_axe": "Sapphire Axe",
   "item.iriesmod.sapphire_shovel": "Sapphire Shovel",
@@ -38,12 +43,26 @@
   "block.iriesmod.sapphire_door": "Sapphire Door",
   "block.iriesmod.sapphire_trapdoor": "Sapphire Trapdoor",
 
+  "block.iriesmod.pine_log": "Pine Log",
+  "block.iriesmod.pine_planks": "Pine Planks",
+  "block.iriesmod.pine_wood": "Pine Wood",
+  "block.iriesmod.stripped_pine_log": "Stripped Pine Log",
+  "block.iriesmod.stripped_pine_wood": "Stripped Pine Wood",
+  "block.iriesmod.pine_leaves": "Pine Leaves",
+
+  "block.iriesmod.pine_sign": "Pine Sign",
+  "block.iriesmod.pine_hanging_sign": "Pine Hanging Sign",
+
+  "block.iriesmod.pine_sapling": "Pine Sapling",
+
   "tooltip.iriesmod.ore_detector.tooltip": "Use This To Detect Diamonds Underground.",
   "tooltip.iriesmod.sound_block.tooltip": "Makes a sweet sweet sound when right clicked!",
   "tooltip.iriesmod.pine_cone.tooltip": "Go ahead and throw me in the furnace.",
   "sounds.iriesmod.ore_detector_found_ore": "Ore Detector Jingle",
 
   "entity.minecraft.villager.iriesmod.soundmaster": "Sound Master",
+
+  "entity.iriesmod.mod_chest_boat": "Boat with Chest",
 
   "creativetab.iries_tab": "Iries Mod"
 }

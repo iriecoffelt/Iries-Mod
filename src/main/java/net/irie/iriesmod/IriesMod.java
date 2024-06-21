@@ -4,11 +4,12 @@ import com.mojang.logging.LogUtils;
 import net.irie.iriesmod.block.ModBlocks;
 import net.irie.iriesmod.item.ModCreativeModeTabs;
 import net.irie.iriesmod.item.ModItems;
-import net.irie.iriesmod.item.custom.OreDetectorItem;
 import net.irie.iriesmod.loot.ModLootModifiers;
 import net.irie.iriesmod.sound.ModSounds;
 import net.irie.iriesmod.villager.ModVillagers;
-import net.minecraft.world.item.CreativeModeTab;
+import net.irie.iriesmod.worldgen.biome.ModTerrablender;
+import net.irie.iriesmod.worldgen.tree.ModFoliagePlacers;
+import net.irie.iriesmod.worldgen.tree.ModTrunkPlacerTypes;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -21,6 +22,14 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
+import net.irie.iriesmod.block.entity.ModBlockEntities;
+import net.irie.iriesmod.entity.ModEntities;
+import net.irie.iriesmod.entity.client.ModBoatRenderer;
+import net.irie.iriesmod.entity.client.RhinoRenderer;
+import net.irie.iriesmod.util.ModWoodTypes;
+import net.minecraft.client.renderer.Sheets;
+import net.minecraft.client.renderer.entity.EntityRenderers;
+import net.minecraft.client.renderer.entity.ThrownItemRenderer;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(IriesMod.MOD_ID)
@@ -44,6 +53,14 @@ public class IriesMod
         ModVillagers.register(modEventBus);
 
         ModSounds.register(modEventBus);
+        ModEntities.register(modEventBus);
+
+        ModTrunkPlacerTypes.register(modEventBus);
+
+        ModFoliagePlacers.register(modEventBus);
+        ModTerrablender.registerBiomes();
+
+        ModBlockEntities.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -112,6 +129,13 @@ public class IriesMod
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
+            Sheets.addWoodType(ModWoodTypes.PINE);
+
+            EntityRenderers.register(ModEntities.RHINO.get(), RhinoRenderer::new);
+            EntityRenderers.register(ModEntities.MOD_BOAT.get(), pContext -> new ModBoatRenderer(pContext, false));
+            EntityRenderers.register(ModEntities.MOD_CHEST_BOAT.get(), pContext -> new ModBoatRenderer(pContext, true));
+
+            EntityRenderers.register(ModEntities.DICE_PROJECTILE.get(), ThrownItemRenderer::new);
         }
     }
 }

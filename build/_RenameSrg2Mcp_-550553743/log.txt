@@ -1,0 +1,15 @@
+Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/mezz.jei/jei-1.20-forge/14.0.0.11/6d6f4b629f22858f7ddea79368059d09db8de4ad/jei-1.20-forge-14.0.0.11.jar, --output, /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/mezz/jei/jei-1.20-forge/14.0.0.11_mapped_parchment_2023.10.08-1.20.2/jei-1.20-forge-14.0.0.11_mapped_parchment_2023.10.08-1.20.2.jar, --mcp, /Users/iriedevelopment/.gradle/caches/parchmentgradle/org/parchmentmc/data/parchment-1.20.2/2023.10.08/parchment-1.20.2-2023.10.08.zip, --strip-signatures'
+Classpath:
+ - /Users/iriedevelopment/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.3.2/installertools-1.3.2-fatjar.jar
+Working directory: /Users/iriedevelopment/Documents/Minecraft Development/Iries-Mod/build/_RenameSrg2Mcp_-550553743
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /Users/iriedevelopment/.gradle/caches/modules-2/files-2.1/mezz.jei/jei-1.20-forge/14.0.0.11/6d6f4b629f22858f7ddea79368059d09db8de4ad/jei-1.20-forge-14.0.0.11.jar
+Output: /Users/iriedevelopment/.gradle/caches/forge_gradle/deobf_dependencies/mezz/jei/jei-1.20-forge/14.0.0.11_mapped_parchment_2023.10.08-1.20.2/jei-1.20-forge-14.0.0.11_mapped_parchment_2023.10.08-1.20.2.jar
+MCP:    /Users/iriedevelopment/.gradle/caches/parchmentgradle/org/parchmentmc/data/parchment-1.20.2/2023.10.08/parchment-1.20.2-2023.10.08.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

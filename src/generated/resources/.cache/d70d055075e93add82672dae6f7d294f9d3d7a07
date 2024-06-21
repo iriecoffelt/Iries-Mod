@@ -1,2 +1,4 @@
-// 1.20	2024-06-19T12:20:08.559138	Tags for minecraft:item mod id iriesmod
+// 1.20	2024-06-21T10:19:02.531821	Tags for minecraft:item mod id iriesmod
+5d525ecadb682bd8e455ccd7c3c1f7e306aed25e data/minecraft/tags/items/logs_that_burn.json
+c33e74380b10e720411c3290d9999ef1187d0b4e data/minecraft/tags/items/planks.json
 19ea63b48a03ffc43e82fddccf122f7bab2aefb2 data/minecraft/tags/items/trimmable_armor.json

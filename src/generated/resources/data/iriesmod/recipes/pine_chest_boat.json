@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "iriesmod:pine_boat"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "   ",
+    "CB ",
+    "   "
+  ],
+  "result": {
+    "item": "iriesmod:pine_chest_boat"
+  },
+  "show_notification": true
+}

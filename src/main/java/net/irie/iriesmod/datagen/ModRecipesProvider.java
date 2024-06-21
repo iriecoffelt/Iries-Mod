@@ -6,6 +6,7 @@ import net.irie.iriesmod.item.ModItems;
 import net.minecraft.advancements.critereon.MinMaxBounds;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
+import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.AbstractCookingRecipe;
 import net.minecraft.world.item.crafting.Ingredient;
@@ -31,6 +32,41 @@ public class ModRecipesProvider extends RecipeProvider implements IConditionBuil
     protected void buildRecipes(Consumer<FinishedRecipe> p_251297_) {
         oreBlasting(p_251297_, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.SAPPHIRE.get(),0.25f, 100, "sapphire");
         oreSmelting(p_251297_, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.SAPPHIRE.get(),0.25f, 200, "sapphire");
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.TRANSPORTATION, ModItems.PINE_CHEST_BOAT.get(), 1)
+                .pattern("   ")
+                .pattern("CB ")
+                .pattern("   ")
+                .define('C', Items.CHEST)
+                .define('B', ModItems.PINE_BOAT.get())
+                .unlockedBy(getHasName(ModItems.PINE_BOAT.get()), has(ModItems.PINE_BOAT.get()))
+                .save(p_251297_);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.DECORATIONS, ModItems.PINE_SIGN.get(), 3)
+                .pattern("PPP")
+                .pattern("PPP")
+                .pattern(" S ")
+                .define('S', Items.STICK)
+                .define('P', ModBlocks.PINE_PLANKS.get())
+                .unlockedBy(getHasName(ModBlocks.PINE_PLANKS.get()), has(ModBlocks.PINE_PLANKS.get()))
+                .save(p_251297_);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.DECORATIONS, ModItems.PINE_HANGING_SIGN.get(), 6)
+                .pattern("C C")
+                .pattern("PPP")
+                .pattern("PPP")
+                .define('C', Items.CHAIN)
+                .define('P', ModBlocks.PINE_PLANKS.get())
+                .unlockedBy(getHasName(ModBlocks.PINE_PLANKS.get()), has(ModBlocks.PINE_PLANKS.get()))
+                .save(p_251297_);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.TRANSPORTATION, ModItems.PINE_BOAT.get(), 1)
+                .pattern("P P")
+                .pattern("PPP")
+                .pattern("   ")
+                .define('P', ModBlocks.PINE_PLANKS.get())
+                .unlockedBy(getHasName(ModBlocks.PINE_PLANKS.get()), has(ModBlocks.PINE_PLANKS.get()))
+                .save(p_251297_);
 
         ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.SAPPHIRE_BLOCK.get(), 1)
                 .pattern("SSS")
@@ -196,6 +232,11 @@ public class ModRecipesProvider extends RecipeProvider implements IConditionBuil
         ShapelessRecipeBuilder.shapeless(RecipeCategory.BUILDING_BLOCKS, ModBlocks.SAPPHIRE_BUTTON.get(), 1)
                 .requires(ModItems.SAPPHIRE.get())
                 .unlockedBy(getHasName(ModItems.SAPPHIRE.get()), has(ModItems.SAPPHIRE.get()))
+                .save(p_251297_);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.BUILDING_BLOCKS, ModBlocks.PINE_PLANKS.get(), 4)
+                .requires(ModBlocks.PINE_LOG.get())
+                .unlockedBy(getHasName(ModBlocks.PINE_LOG.get()), has(ModBlocks.PINE_LOG.get()))
                 .save(p_251297_);
     }
 

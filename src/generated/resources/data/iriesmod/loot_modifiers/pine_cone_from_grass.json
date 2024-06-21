@@ -2,7 +2,7 @@
   "type": "iriesmod:add_item",
   "conditions": [
     {
-      "block": "minecraft:grass",
+      "block": "iriesmod:pine_leaves",
       "condition": "minecraft:block_state_property"
     },
     {

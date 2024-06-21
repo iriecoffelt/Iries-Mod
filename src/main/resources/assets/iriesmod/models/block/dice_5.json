@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "iriesmod:block/dice_5",
+    "down": "iriesmod:block/dice_2",
+    "north": "iriesmod:block/dice_1",
+    "east": "iriesmod:block/dice_4",
+    "south": "iriesmod:block/dice_6",
+    "west": "iriesmod:block/dice_3",
+    "particle": "iriesmod:block/dice_5"
+  }
+}
